@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 import { Footer } from '@components/shared/Footer'
 import { Header } from '@components/shared/Header'
-import Owners  from "@components/projects/Owners"
+import Ownerss  from "@components/projects/Ownerss"
 import fsPromises from 'fs/promises'
 import path from 'path'
 import JsonData from '@components/shared/JsonData'
@@ -15,7 +15,7 @@ interface MyComponentProps {
   data: any
 }
 
-const owners: NextPage<MyComponentProps> = ({ data }) => {
+const Owners: NextPage<MyComponentProps> = ({ data }) => {
   useAOS()
   return (
     <div>
@@ -26,7 +26,7 @@ const owners: NextPage<MyComponentProps> = ({ data }) => {
       <Header />
 
       <main>
-        <Owners />
+        <Ownerss />
     
       </main>
       <JsonData data={data} />
@@ -36,7 +36,7 @@ const owners: NextPage<MyComponentProps> = ({ data }) => {
   )
 }
 
-export default owners 
+export default Owners 
 
 export async function getStaticProps() {
   const filePath = path.join(process.cwd(), '/JSON_DATA', '/v1_old_policy_NFTs.json')

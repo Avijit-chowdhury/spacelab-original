@@ -1,4 +1,4 @@
-const Nftdetails = () => {
+const Nftdetailss = () => {
     return(
         <div>
         <div className="flex w-full flex-row justify-start px-5 py-5 sm:px-10">
@@ -293,4 +293,4 @@ const Nftdetails = () => {
     )
 }
 
-export default Nftdetails
+export default Nftdetailss

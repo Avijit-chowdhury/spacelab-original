@@ -60,12 +60,12 @@ const Analyticspage = () => {
         10,000 unique collectible characters with proof of ownership stored on
         the Ethereum blockchain. The project that inspired the modern CryptoArt
         movement. CryptoPunks are one of the earliest and most iconic examples
-        of "Non-Fungible Tokens” minted on Ethereum, and were the inspiration
+        of Non-Fungible Tokens minted on Ethereum, and were the inspiration
         for the ERC-721 standard standard which powers most digital art and
         collectibles on-chain. Since their release on June 23, 2017, CryptoPunks
         have been featured in numerous international publications, headlined
-        prestigious international auctions at both Christie&rsquo;s and
-        Sotheby&rsquo;s, and even entered the permanent collections of important
+        prestigious international auctions at both Christis and
+        Sotheby&rsqus, and even entered the permanent collections of important
         art museums such as the ICA Miami, the Centre Pompidou, and the LACMA.
         For more information and updates, check out the CryptoPunks brand hub.
       </div>
@@ -85,7 +85,7 @@ const Analyticspage = () => {
           gas fees. Now, they can be purchased from their present owners using
           the bespoke CryptoPunks marketplace, which is also embedded in the
           blockchain. Via this frictionless market you can buy, bid on, and
-          offer Punks for sale. Below, you&rsquo;ll find information about the
+          offer Punks for sale. Below,ll find information about the
           availability of each Punk. Punks with a blue background are not for
           sale and have no current bids. Punks with a red background are
           available for sale by their owner. Finally, Punks with a purple
@@ -453,7 +453,7 @@ const Analyticspage = () => {
 
       <div className="w-full  px-6 py-1">
         <h2 className="m-auto px-2 py-1 text-3xl font-semibold capitalize text-cyan-50 sm:text-4xl">
-          what's for sale ?
+          whats for sale ?
         </h2>
 
         <p className="m-auto px-3 py-2 text-justify text-sm text-cyan-50">
@@ -465,7 +465,7 @@ const Analyticspage = () => {
       </div>
       <div className="w-full  px-6 py-1">
         <h2 className="m-auto px-2 py-1 text-3xl font-semibold capitalize text-cyan-50 sm:text-4xl">
-          what's for sale ?
+          whats for sale ?
         </h2>
 
         <p className="m-auto px-3 py-2 text-justify text-sm text-cyan-50">
@@ -478,7 +478,7 @@ const Analyticspage = () => {
 
       <div className="w-full  px-6 py-1">
         <h2 className="m-auto px-2 py-1 text-3xl font-semibold capitalize text-cyan-50 sm:text-4xl">
-          what's for sale ?
+          whats for sale ?
         </h2>
 
         <div className="my-1 flex cursor-pointer pb-8">
@@ -503,7 +503,7 @@ const Analyticspage = () => {
 
         <div className="my-1 flex cursor-pointer pb-8">
           <div className="h-10 w-8 py-1 text-center">
-            <p className="p-0 text-3xl text-white">&bull;</p>
+            <p className="p-0 text-3xl text-white">&bul</p>
           </div>
           <div className="h-10 w-full px-1 py-3">
             <p className="text-white">

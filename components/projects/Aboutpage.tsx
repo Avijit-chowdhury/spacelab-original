@@ -1,42 +1,44 @@
+import Link from 'next/link'
 const Aboutpage = () => {
   return (
     <div className="pt-28">
       {/* About page start */}
       <div className="flex w-full flex-row justify-start px-5 py-5 sm:px-10">
+      <Link href="/nft" passHref>
         <a
-          href="/nft"
           className="mx-1 border-0 bg-green-600 px-2 py-1 text-xs text-slate-950 sm:text-sm "
         >
           All Nft
         </a>
-
+        </Link>
+        <Link href="/nftdetails" passHref>
         <a
-          href="/nftdetails"
           className="mx-1 border-0 bg-red-500 px-2 py-1 text-xs text-slate-950 sm:text-sm "
         >
           New Nfts
         </a>
-
+        </Link>
+        <Link href="/owners" passHref>
         <a
-          href="/owners"
           className="mx-1 border-0 bg-pink-500 px-2 py-1 text-xs text-slate-950 sm:text-sm "
         >
           Owners
         </a>
-
+        </Link>
+        <Link href="#" passHref>
         <a
-          href="#"
           className="mx-1 border-0 bg-slate-100 px-2 py-1 text-xs text-slate-950 sm:text-sm "
         >
           Prototype
         </a>
-
+        </Link>
+        <Link href="#" passHref>
         <a
-          href="#"
           className="mx-1 border-0 bg-slate-100 px-2 py-1 text-xs text-slate-950 sm:text-sm "
         >
           Hardware
         </a>
+        </Link>
       </div>
       <div className="flex w-full flex-col items-center">
         <div className="w-0/4 m-auto bg-[url(/titlelogo.svg)] bg-no-repeat py-4 pl-8 font-mono text-xl font-semibold text-white [background-size:65px_65px]">

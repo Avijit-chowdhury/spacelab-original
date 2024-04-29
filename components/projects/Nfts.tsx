@@ -1,4 +1,4 @@
-const Nft = () => {
+const Nfts = () => {
     return(
         <div>
       <div className="flex w-full flex-row justify-start px-5 py-5 sm:px-10">
@@ -403,4 +403,4 @@ const Nft = () => {
       </div>
     )
 }
-export default Nft
+export default Nfts

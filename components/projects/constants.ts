@@ -1,4 +1,4 @@
-export const imagess = [
+export const images = [
     {
       id: 1,
       src: "/Blackcoffee.png",

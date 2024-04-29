@@ -1,4 +1,4 @@
-const Owners = () => {
+const Ownerss = () => {
     return (
         <div>
         <div className="flex w-full flex-row justify-start px-5 py-5 sm:px-10">
@@ -374,4 +374,4 @@ const Owners = () => {
     )
 }
 
-export default Owners
+export default Ownerss

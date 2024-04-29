@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 import { Footer } from '@components/shared/Footer'
 import { Header } from '@components/shared/Header'
-import Nftdetails  from "@components/projects/Nftdetails"
+import Nftdetailss  from "@components/projects/Nftdetailss"
 import fsPromises from 'fs/promises'
 import path from 'path'
 import JsonData from '@components/shared/JsonData'
@@ -15,7 +15,7 @@ interface MyComponentProps {
   data: any
 }
 
-const nftdetails: NextPage<MyComponentProps> = ({ data }) => {
+const Nftdetails: NextPage<MyComponentProps> = ({ data }) => {
   useAOS()
   return (
     <div>
@@ -26,7 +26,7 @@ const nftdetails: NextPage<MyComponentProps> = ({ data }) => {
       <Header />
 
       <main>
-        <Nftdetails />
+        <Nftdetailss />
     
       </main>
       
@@ -37,7 +37,7 @@ const nftdetails: NextPage<MyComponentProps> = ({ data }) => {
   )
 }
 
-export default nftdetails 
+export default Nftdetails 
 
 export async function getStaticProps() {
   const filePath = path.join(process.cwd(), '/JSON_DATA', '/V2_policy_id_assets_info_NFTs.json')
