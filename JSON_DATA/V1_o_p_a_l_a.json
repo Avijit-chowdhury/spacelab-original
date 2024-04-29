@@ -1,0 +1,6002 @@
+[
+  {
+    "asset_name": "537061636542756430",
+    "fingerprint": "asset1rhmwfllvhgczltxm0y7rdump6g5p5ax4c25csq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431",
+    "fingerprint": "asset17xrsw5e5w4cqhuzz0ttww3h4mc8tq3hu5qjez3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643130",
+    "fingerprint": "asset1pu9vn9ses3fqpvm52a2m8xwukghu8c6c89azl2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313030",
+    "fingerprint": "asset1rqcld457hzd7z02plmtnk9un6g7yc0yv9xdlsn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303030",
+    "fingerprint": "asset1f66kyggzsqtggsgqvjs8paax5z89wwe98ket84",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303031",
+    "fingerprint": "asset19zsgqsj5zvsa9ga5wa0uxdt5vzsf6jdcfcz7yk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303032",
+    "fingerprint": "asset17dpv07ry08h5gfhff8uzvvsq5ht85nlrnhlq6q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303033",
+    "fingerprint": "asset1zn7tmrmf9ct6yn0g2k0nle3hmptygu38v9gllu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303034",
+    "fingerprint": "asset19txhm235se6ha6wkg8jquelwgmr9sqk23umd4u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303035",
+    "fingerprint": "asset1zddn3hs3rdcy2shuplhwmnunet9f34l9khmfrl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303036",
+    "fingerprint": "asset1y5zrpq9lmqvwt79gkgt09tungnynflhq03pzvl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303037",
+    "fingerprint": "asset1k3tshums2uykd4hhldh8r5yd8jgq8p9lcqlrs7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303038",
+    "fingerprint": "asset1srkduea6873gx6uy3epvngj8jrvpndnjd95hwe",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303039",
+    "fingerprint": "asset1qk4606cday3eyw5qynxmnvuwvvj27pactjmz9t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313031",
+    "fingerprint": "asset1eklyxn06l298kjdeadpdxgm5utwk2y4r4a3m69",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303130",
+    "fingerprint": "asset1njlfgvajqju8l5hdtkg0ykzzmaq2g4w0jjkj2q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303131",
+    "fingerprint": "asset17r3j5x469l5m0shpkwnumfrpdsce83qemu3k7y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303132",
+    "fingerprint": "asset1z9544rd4pzxkx7ats3x0j50my337ym9ted9fkg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303133",
+    "fingerprint": "asset1u9sw0vfqjlm4ft3xuvl2p9qu5k4qmaz63y5jmt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303134",
+    "fingerprint": "asset1x7f2fxf448ke0sv2c2u6v4r0h6dz6synrn3pch",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303135",
+    "fingerprint": "asset1a7vujg05jsclm8cq0n65xrzlc3htdlnsdmskta",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303136",
+    "fingerprint": "asset1zwhgcm5h22en0jmw459a25wdf73jytf8jv4fkf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303137",
+    "fingerprint": "asset1jjqujm4a2jm4stvkvugkyttlrax4awf7mhlgaa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303138",
+    "fingerprint": "asset1tyy5rlujcuad4nc9aru40f8hufcu7gpe6fvlxe",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303139",
+    "fingerprint": "asset18wdwrg9jes38lwny8wfk98dtg0s9665vwk768q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313032",
+    "fingerprint": "asset1clny8qcefqrlhrat80xupzuvh0s9vpr2vwk80g",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303230",
+    "fingerprint": "asset1xm59xaykrdd9mz2z8xv38xph8crguplqmk283g",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303231",
+    "fingerprint": "asset14h5970nx65jamufqwg69f0uf77a3z83zdc87cq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303232",
+    "fingerprint": "asset1kcd7dgf3qud68crlj00envz9wshd4n2kc8ch7w",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303233",
+    "fingerprint": "asset1kt2hm674emmzdsc0s6nz46ampp2nwqfmlauqcf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303234",
+    "fingerprint": "asset1ntuw2y3hhwtdags6asmt206gwt63swqrnx0rl0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303235",
+    "fingerprint": "asset1dyrf3dyx04aekpfuykyx46duxkft6hdnz85yz4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303236",
+    "fingerprint": "asset1jcl8m6mzet6s8j48jjvfhfjgdmfx8cneqprj9l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303237",
+    "fingerprint": "asset1n9pfcqj8yxrkzetdhpraycgkd8paaf732cah22",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303238",
+    "fingerprint": "asset1dp5rts69avzw6a7qt66uta626vn44jmlfecg2n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303239",
+    "fingerprint": "asset1w32za49tn98hjljjvtmlggaeh5ls4lcglg45ph",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313033",
+    "fingerprint": "asset1tslln5es5zmu5ycl2cqqm0w7mlew7argjaag0j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303330",
+    "fingerprint": "asset1qljp4t6wlzdsu23ay9hvsg72ltmemxycjd05a8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303331",
+    "fingerprint": "asset17d9xcyha722jgj6llu5055xkpw4n7c9ah0mvuz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303332",
+    "fingerprint": "asset1535q8tjfnxg3307sm6jkyzl0ktxrvfcr4zmuve",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303333",
+    "fingerprint": "asset1q96kfmvx0ld33wmtu4zvfzpa7my59hde65ww4r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303334",
+    "fingerprint": "asset1xdulj9zt5f0e4ru0yj6fdx6jnfclvcvuf0s2g2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303335",
+    "fingerprint": "asset1kx46x8282elvkpsje8gdxud4ny80z2qk7t9rzg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303336",
+    "fingerprint": "asset1mg7raxwngxmg7muh00mfqkeqc65cq9dpx6wgsk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303337",
+    "fingerprint": "asset1yfza4vlsucay8e8tc69j3ak798mr3r3sgrqsmr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303338",
+    "fingerprint": "asset122apylmesk92kfz5z5049lmeu6ucf2zlnhmqhr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303339",
+    "fingerprint": "asset15q2qnqfgyc4zzcrqxjmwdr742j6cllz40df5rs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313034",
+    "fingerprint": "asset1fmc7870z473fdd2exklmpdvar7z3tg7l4lx3ee",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303430",
+    "fingerprint": "asset1j6l5e7scwpkhvlps6xekzekjlknwx8vxag2usm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303431",
+    "fingerprint": "asset1atvctw69jaw40askwmrf3yc0mwnyf5uf8enx4t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303432",
+    "fingerprint": "asset1lrqe0h9xm4hzrz8pgexge69usjscyhr4xashhw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303433",
+    "fingerprint": "asset107z720w03jjnlpu7vrckxc80s9vqjdrrdlzntc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303434",
+    "fingerprint": "asset1y2jnwalrf0fkqnuc3rvk8x35ckn4re6v7f87gs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303435",
+    "fingerprint": "asset1v4z9qt8w7tlu0d387l0dn8n5grljx44jkjt3th",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303436",
+    "fingerprint": "asset1y0y2a5jkg9ngcfrl9jgcd4k0q4tmpcz92ay28q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303437",
+    "fingerprint": "asset1r4l6fsjhfgulyz0lnzdrk2r8nnvvp8jpct5ne8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303438",
+    "fingerprint": "asset1pznl0nqptlcytqy0mhdd9485uc6nywg8emfj74",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303439",
+    "fingerprint": "asset19f83v0ku9zq0hu308my03nqn6fa7w9c45unedu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313035",
+    "fingerprint": "asset16fh30t6hrfddshcfz63q2zhxwz7n0agl66hgl7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303530",
+    "fingerprint": "asset1ger6km0e24r43u9kff3dyeygcksdk7fxe5ywvz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303531",
+    "fingerprint": "asset1kx8xxgl67yuzhrjcrpwv5xv3dj6hcxwe6c6whp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303532",
+    "fingerprint": "asset1lnky876q5z4cfs4ma4p39yzf5sahw3a9hzsjar",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303533",
+    "fingerprint": "asset1hzq4cl9pyddz8094c4vt39wgk87pytdk7l628l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303534",
+    "fingerprint": "asset12jwrlmf9uyd0ae50sflvpazx252tjagqee32ed",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303535",
+    "fingerprint": "asset179prs837tpzzz9lfh5rf7gtttrh053pk3jckfy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303536",
+    "fingerprint": "asset156j8c3q53xa7zjznzy53efmv4d2ajwayyxh2mu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303537",
+    "fingerprint": "asset1800ruk63dw7gdexr6djhaxe3et5rx9n80uffct",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303538",
+    "fingerprint": "asset1cysaqcdtq3w4k608q60nh2f0kzx88mpp7zk7fx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303539",
+    "fingerprint": "asset14228ypydd6r9s8jpnuw06ttnxyt9z4hfqw40ey",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313036",
+    "fingerprint": "asset1zdxt07s99z5q6wt3ad0smugu5372cardmuzz7m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303630",
+    "fingerprint": "asset1talv9enwy0mz78uj8yy44hq2p6v4ezq2fsfqeg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303631",
+    "fingerprint": "asset13r0389cuu2ua79j90uz0g38ajwqleyqjyawamd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303632",
+    "fingerprint": "asset1l6jmx0amzyjqy0qzf8slah5sfcz46jr65atug9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303633",
+    "fingerprint": "asset10ja3f84eawxcduc606y7mekn7e2yer0kls464c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303634",
+    "fingerprint": "asset10a44rsy8nl04e95fv2act85u29lf9099567tgy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303635",
+    "fingerprint": "asset174qky64tq093av04j2x0sacya3z6kt2c83pyux",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303636",
+    "fingerprint": "asset19xkv2dhfvpsenr7fxmrkrma2mzyu6vp644d2ls",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303637",
+    "fingerprint": "asset1ddaya09yc56nasx0c2u3thz8rjw889vztdq7uj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303638",
+    "fingerprint": "asset1436wtw448y59fjwujkxz22anthpmg5ekc0tdhx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303639",
+    "fingerprint": "asset1fuu893dxhr25w5f3t7p0h6gtxgwryykq2nv4sw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313037",
+    "fingerprint": "asset1yx4d4f2fhne7jssetke4x5ncdcea5lf66fvsru",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303730",
+    "fingerprint": "asset1d6el2mzezavawkv7y8sjvf44eqcfqa323en2cg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303731",
+    "fingerprint": "asset1n8hzvxldkvyran0haeyww54wc46n2jq86nsu79",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303732",
+    "fingerprint": "asset1mm57dxcmkrvhsgvrksyygncgf435k065nr9tpa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303733",
+    "fingerprint": "asset1cc449gak5g2fadtwuq2ws8plmep2au87fr2x3a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303734",
+    "fingerprint": "asset1kvdtvdxq8vnckye33q690fuwghtfg05a9qcs2m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303735",
+    "fingerprint": "asset10kcmtfyqjq7e3msd0w87vhvj6t49u7xxzu7lkj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303736",
+    "fingerprint": "asset1x0l3t99jzhsz796kreu26rusgjghepzz2x4p7a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303737",
+    "fingerprint": "asset10f6uenuvfvxuvgecsrqc96xdfqsksecf6y8h93",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303738",
+    "fingerprint": "asset1ws3cnv2lf2skj9jg0f0t42grzve2n63pwn3du6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303739",
+    "fingerprint": "asset1hek7qjexcmdfkw3c4cyt89kug5hhapxm0477rm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313038",
+    "fingerprint": "asset18uzykea2rsl7t0ypzjg4wnd0hywpl94c6ss8t7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303830",
+    "fingerprint": "asset1myxfghaaswuxctg3dx2tywakx8n8j2k6fxsym0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303831",
+    "fingerprint": "asset1jquve9gg696dsyhz86g7xhseaxnxgatnycxtd5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303832",
+    "fingerprint": "asset1cm3c5qku36f9sxks5lmyr4gs35dw0cncxruzxn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303833",
+    "fingerprint": "asset1vameuyfgvtlgxtk4c3sk6nhht5yyzja0wq9fhw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303834",
+    "fingerprint": "asset1sap9t5crvrhkna579awwcxjngdaa0h0vh73d6w",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303835",
+    "fingerprint": "asset1mqjj6fqpdufpfuhj4gy8v48e2aq82tjhrr4yxx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303836",
+    "fingerprint": "asset1r5fl3s5ssazk8u2setwlu502m2j3sqdvwkun7c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303837",
+    "fingerprint": "asset1eratmm83pnuztaj9y5e8larva3zusgsc8lteaf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303838",
+    "fingerprint": "asset1wnwq98m72awf907f8lpm8easrvx59yv2jqyk9q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303839",
+    "fingerprint": "asset1r09jx80eln48mhdm2jex6pvcxnm4vtq9d98hc2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313039",
+    "fingerprint": "asset1y65edrwtyk8qwcqffg9ezsefnuk3v3yt9rfthd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303930",
+    "fingerprint": "asset16lsluyplqz7gdxeh2kvzaxp85puq56zh3s4l7x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303931",
+    "fingerprint": "asset1e6styueeaxa8rvn2qmtnt9m3r25lpw69yhqepj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303932",
+    "fingerprint": "asset1ynsmqdk8sdmep3hdmlfyypym2z26kwekt4r7m9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303933",
+    "fingerprint": "asset1cteywwat9g24j787tuhhqgr5a3z4k0amga69st",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303934",
+    "fingerprint": "asset1kmgtj0uexgkx27twgvsw45zldex5p6vg8n5r7w",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303935",
+    "fingerprint": "asset1dlnv7rdw6evyuvuvg44nc580vk6r3x229cydwu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303936",
+    "fingerprint": "asset1mkdk6wvfjrhldry5wh2nqruvaezwygpecl5gq3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303937",
+    "fingerprint": "asset1vu2jl8dawsfw29xcjzxe7s2ks8xx9cd8wfhqvm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303938",
+    "fingerprint": "asset1type7g46rc5z74td3x0kuksqzjma3w7rp6cf0f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431303939",
+    "fingerprint": "asset1f9htdfgq4uenac75sezetc4k5ql33tjgfxx4m2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643131",
+    "fingerprint": "asset1n0mnh4ajjwmlu3dwrffl473elcw0n4p4kr9xsl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313130",
+    "fingerprint": "asset1ewj4459tst3y0l4uu6u0erm36yd0gvpn48w4m9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313030",
+    "fingerprint": "asset1vfqjalxaq048fdhcj5kjmekk4gnjz9zeyuvqh5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313031",
+    "fingerprint": "asset1xg5jlqapx48equura7rwt88ktvlzm2agyv63xv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313032",
+    "fingerprint": "asset1egdmn7g2855yrre9rrh2gtpnlv47dt7chth478",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313033",
+    "fingerprint": "asset1u6e4nkh8y5t0fqp5jnlx9z5z9448lpjpuzssnn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313034",
+    "fingerprint": "asset1q4luz798ymxh0nfy6xkadmuhv6y3h8yu3045zg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313035",
+    "fingerprint": "asset1ktx36yupj8sr2vtrhny55y8tfwv6kr8p5p5tmg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313036",
+    "fingerprint": "asset10zqz60jcxn4sxd5spmfmmu9pfps9rzycsssycw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313037",
+    "fingerprint": "asset1uyruu04tqe2qxu049xd3w34v55l35mx3nt3g2s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313038",
+    "fingerprint": "asset1jkc3ewhq5qwxhmdz56mgxg0n8rehqg9t7yfcn5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313039",
+    "fingerprint": "asset1fpr6j776qg6m88hjg7wqpkmssvxfj3hxlu23nw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313131",
+    "fingerprint": "asset1e4kz8hf6sveerpmwr8kamznmer55hrwyghgln7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313130",
+    "fingerprint": "asset1r2m2hjvchqtz7et6lnnljmd5vy9tlwptnnz7jx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313131",
+    "fingerprint": "asset1j3dyfcn29fuendc38vu2su9g3wqlprf77d3jhg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313132",
+    "fingerprint": "asset1su76xrq3ncr40cef8c8kavg6c5tdjcqpdlseth",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313133",
+    "fingerprint": "asset1yl5pksgsnxkm6xn9u2jk5un00wdwzh78wawu20",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313134",
+    "fingerprint": "asset1ek8lhse99tnh0h25zt2u9t9g4vfv4n0qpxecfa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313135",
+    "fingerprint": "asset148fxcynfhtnhf5jrwmmyx49f2fjweppy0a0j04",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313136",
+    "fingerprint": "asset1ucz63rzk74pppurur8hh6nt7mp2ys5wne9q76c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313137",
+    "fingerprint": "asset13arhhmqrfvrjyl3rdc9t2a928c5f5ys309p0qp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313138",
+    "fingerprint": "asset1a297xwkwade803mk4zfg0tjqqjep6cjsd8mrqj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313139",
+    "fingerprint": "asset1042xz020rjdtzyg2p4hjz3rypfy6yydcdpj774",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313132",
+    "fingerprint": "asset1zapztgfm8zw2end90q6saxh9xk6wks65y5ztl5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313230",
+    "fingerprint": "asset12xht0n7g4q678sw2njylrt2t038qmjxwknz2mc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313231",
+    "fingerprint": "asset1jlw6qqauw75ru7t8lect50mn9pa6hlj9y2fmn3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313232",
+    "fingerprint": "asset1hjwqx9dy64m5rmxtgef5d5qc9m69mr03hjkv4p",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313233",
+    "fingerprint": "asset1qvg87ed2f60umn62h6462p2sffwqn4u56uskgq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313234",
+    "fingerprint": "asset1e8rd62vhts9ks45n634jcvlzrqz9pnrgnumxjx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313235",
+    "fingerprint": "asset14xfjxauzna0es22ac55q8dxx89trt3p5hpn27k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313236",
+    "fingerprint": "asset15vsujdv6z8gd6ysvfm7lggk3tsz59geetq9ee2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313237",
+    "fingerprint": "asset1j9d5qnq7r9dn4la9m47ch8j2zdjry0wup3j8dc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313238",
+    "fingerprint": "asset1324p7g22vpzjw86ysjk456whnr2cdxm8uggx7k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313239",
+    "fingerprint": "asset15sa6epaje58x4s83y8dl0pzc3qn8jl6mzhtzcs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313133",
+    "fingerprint": "asset1t9sm9grg70g3qknl6tvf6v0qekttalvf7khfpn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313330",
+    "fingerprint": "asset17pv0z0jphlftsvdtgud9fnn2f9gcpg908shxjc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313331",
+    "fingerprint": "asset1ddjxl593zgtvjzpvacj65pafltcaw42gnsxvcv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313332",
+    "fingerprint": "asset1vms9zfwaew3kt9j8khwfdh7v4mepxtss06wmmq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313333",
+    "fingerprint": "asset10pyjyuujvc8gnphmg0yvyx69zjny6xnwcnkzg9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313334",
+    "fingerprint": "asset1mqu9hd8ccta7t3azh6dcuuh8202w4cgz5795zc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313335",
+    "fingerprint": "asset13ctd0h8s9q45r3x2fauq27c42cxts9g54hxtrk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313336",
+    "fingerprint": "asset1v05xnf6zthg4ppjlhz79ylr9efslnccet7tkm4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313337",
+    "fingerprint": "asset1cnc4sxzf0x8zgag9z00lymy3kkz8q9ef4ljcwg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313338",
+    "fingerprint": "asset1c59lwc8c2x4lj9k2wcs3rkt8adtrk7peer26fq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313339",
+    "fingerprint": "asset1cayx9lr0q0u9sf45nyd3f93jl6yczj7sjvn368",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313134",
+    "fingerprint": "asset1a4ds2w8yksd5da4sp6jsaqktjjfphyj2rzr4wp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313430",
+    "fingerprint": "asset1vxg8dh7yqx4untekze6pm2j3ztk0c49awf34qk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313431",
+    "fingerprint": "asset1nm7zzwtqvzdc2jmfpm9a9r57r3zlccg3xrxdhn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313432",
+    "fingerprint": "asset1zwf2wtkmxk6qy75lf28d5fedqnzmlgtudrgk2m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313433",
+    "fingerprint": "asset1aqq448yzu3kgck8ajtw0xnz3878gmzwedxs5y7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313434",
+    "fingerprint": "asset1kvg9qw0utwahmqc8mjmehlvw8k88k9d096xx5u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313435",
+    "fingerprint": "asset10ntqn5kgsxyym588te7w08e2hguas2uzcmfz9e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313436",
+    "fingerprint": "asset1dfxefe03rv09vs6kzawf5kvsjk0hvgvvc45xdy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313437",
+    "fingerprint": "asset1fxr9f9vx3dpfyv2v3njgucneyn5q5a4ewzamak",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313438",
+    "fingerprint": "asset1gzx8splcpldmr8uwptes2apjekcw0c2k3tjk3f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313439",
+    "fingerprint": "asset18jpr8y58387na2wrlgztarvz3wa2dhrrmup742",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313135",
+    "fingerprint": "asset12wszz79p0jntnvneg790kahlxt2czup832fq5c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313530",
+    "fingerprint": "asset1wxdclrt0vsz8qjac8sdsm9zp67ftaxwfjqhw9a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313531",
+    "fingerprint": "asset1g2ctqsurlj6qygpse3m38rcgmx6yyzu6p5s94c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313532",
+    "fingerprint": "asset1dlgvedftj2444gpx429ulv28mwurtthvnchgtq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313533",
+    "fingerprint": "asset1lk2xmlefavq0c776utqg7njerdve99sdfg8jku",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313534",
+    "fingerprint": "asset1xepc3fvqpqkcemly5qhmuyp76g8da3ka69w267",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313535",
+    "fingerprint": "asset1q5tgc33vdwkcqhqkwdzqfttlamxr0dtwh853sr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313536",
+    "fingerprint": "asset1rn3m6tnwkj5s3js0vw6zffgy9x6vec35atsq28",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313537",
+    "fingerprint": "asset1vg72z0z2uqcudtc3nffz5e4tvk676mlahml43j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313538",
+    "fingerprint": "asset1rcumm43u9jehqkzsslazqvlvj8p3nxp7ltaxsc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313539",
+    "fingerprint": "asset10ghk5vuc5ac6pfr60qycea9w3l0ghsuwchgmte",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313136",
+    "fingerprint": "asset1p60hfjegw57mfyh2njfnuvp88y3myl5nfwnx4v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313630",
+    "fingerprint": "asset1fxl06fn8dvl2w0v6fuwswv2euasmsa2lhc7yff",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313631",
+    "fingerprint": "asset1azlumpzyhq9fn307ckvw4qujedsh2k58mtjvre",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313632",
+    "fingerprint": "asset1w2xgcr9gsqwr3mgc9r3sss40t949scwjgqu37n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313633",
+    "fingerprint": "asset1g22wkgszfestvphpd53j0qv8lxx0nx8v2zzq8z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313634",
+    "fingerprint": "asset18tzxw9yw00fmwz8vs8wpnh7guxlkssm084u7tq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313635",
+    "fingerprint": "asset19dsvcdz8ga089y8n0xw206h8huzsrtrwc9z962",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313636",
+    "fingerprint": "asset18lk7hk8ajcg8xnuv0xgqdra2sflq6appvtulny",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313637",
+    "fingerprint": "asset1xd4f34a5qyu30yluaxzhrgfz9l7vvkss80yhzr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313638",
+    "fingerprint": "asset1cml228jt0ytxyt7f24u5zy9y85f3w9ldwcw2j9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313639",
+    "fingerprint": "asset1gw7s0m06znfnqacgj86js4xne2p0g0f570wf30",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313137",
+    "fingerprint": "asset1hej0jx9wfz707z6jjer5fdrgppe98khlphgcfj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313730",
+    "fingerprint": "asset1rnety63t3p7wpp23eduej9h89pnxk474nm67ue",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313731",
+    "fingerprint": "asset1847a756keqwlk9d9ctnkp5499hyrpxmvrl4d5r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313732",
+    "fingerprint": "asset1h5xy02jny94s4e6j63q866jzv7dawvmlfu6665",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313733",
+    "fingerprint": "asset1avsuyc5wecf8vguzsfpnjuxc0z0z0glt4c0mj9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313734",
+    "fingerprint": "asset1at3e409ksclnmuqzp58d0x4jxmrjypdxj8g2lr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313735",
+    "fingerprint": "asset1pm4g59gstpzxkr9k9ex8d6dw3pxzcy5j52rhvv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313736",
+    "fingerprint": "asset1yz0m0mdgwwtq2dkut7qr27nt0yrg44cq7ssxn9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313737",
+    "fingerprint": "asset1zazv2q878nnapr6kydu2f5c8wdels5ju9hhwue",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313738",
+    "fingerprint": "asset1n26z9s9zudygxjrygnmf0nfwz3hvd74tvsv3v4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313739",
+    "fingerprint": "asset1vdyhn4jkx5kxl7pnvp9ezczgwlyknnyxeutlul",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313138",
+    "fingerprint": "asset1lmrcr6e5t2za6y84qdcqks5lecs0ukc7kwtu4u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313830",
+    "fingerprint": "asset1jae9vdn93fx6a8wwwkh5xlwnpzvz9h70tetfee",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313831",
+    "fingerprint": "asset1f45hz54s995mmjfcgqxxjhnze6nudu8534hwa0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313832",
+    "fingerprint": "asset1e04fyggx0p4v3x9swanwnwye36n5kx5kadyyva",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313833",
+    "fingerprint": "asset1j70mn5647utv26dsp2zz2m7yjn5l4dhnf7tv7z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313834",
+    "fingerprint": "asset1qemagx0zngenzahsdpx4fa975ghd5e7uhq492h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313835",
+    "fingerprint": "asset1en2lsscsr5gukfqwztz5x9xd3m94fhrtms367e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313836",
+    "fingerprint": "asset1cxwt2rgl2dska2jttde75chcv33alrg2tgqktd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313837",
+    "fingerprint": "asset1w640w3rx3525fjyyutx92ej22qckvjtspek9v0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313838",
+    "fingerprint": "asset1pu27q5nupdfynvel4khpsstghguuqxy55ys56p",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313839",
+    "fingerprint": "asset1fahud6wd7s4enaq837z684gxt7jl98j9dzm335",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313139",
+    "fingerprint": "asset1q5njk6hv7c463afdyp3f55sple092j83xp4fat",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313930",
+    "fingerprint": "asset100d5a95xxz3r4p3ypl6yawqx28kw33af5wss50",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313931",
+    "fingerprint": "asset1qgejtr578sflfc8ysjkqn2p5c95etlum59w64s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313932",
+    "fingerprint": "asset1smu4n9ukp0hckmvf2llms5k77kaw5yf8gf7fca",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313933",
+    "fingerprint": "asset1rrjq58pddszeu48hlvxsgt0mmdwzym9wn3222v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313934",
+    "fingerprint": "asset1ek2d2gyhx5z8gc4pkycmur8tmz29vz3p98dz6y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313935",
+    "fingerprint": "asset1uhhrmsygaat7fwle536jcczkk2jyd4l4chq8ff",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313936",
+    "fingerprint": "asset1mrrxrkg7maernja5n6kyjcwund96sjgpl7tplr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313937",
+    "fingerprint": "asset18whakjass0d0022ngqq6vdvpmlnm8hk3sxf7j9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313938",
+    "fingerprint": "asset1g7a5zwuful4vulzkmr7z9sd004gwfna6nw00uh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431313939",
+    "fingerprint": "asset1rmd0wfeyqzc30egvfmp3p2q7ka9s9lu8akyua6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643132",
+    "fingerprint": "asset18xqmy4etypq9sm529zn6mhcc2am5dus2u0tu73",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313230",
+    "fingerprint": "asset1ha6mpt848gksu7kz5sv4qrhfh7vpml0fuuum20",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323030",
+    "fingerprint": "asset1mwq6t6gf3l545e9agdtq2jf0vjrq2uh0f92ak6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323031",
+    "fingerprint": "asset155cu0t4mukxy7038ahetv904g9tdtf87xhl3tn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323032",
+    "fingerprint": "asset1nvehehxd3ztlkjr4n97flyc83v4mzx5au0zuuq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323033",
+    "fingerprint": "asset1akt7dh086ucse5vvyak7uf8e0mwplcuczqs05y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323034",
+    "fingerprint": "asset16v9py4jt8zx33h2tpaapk6kmvupvpappjqj2gp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323035",
+    "fingerprint": "asset17tzy54nds9pwgauwz5y9d0jdprtkc5ztyywdt4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323036",
+    "fingerprint": "asset12f4wdt8wughk30vsdn9nw5frahzsvv6n4hlndv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323037",
+    "fingerprint": "asset1zw0tj6ce4pnrcyvy5nkhfhu5t525l85ux8xc7j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323038",
+    "fingerprint": "asset14ryl00h8g3wsj5zkpeg2yu5qf2fhcxwsj24djl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323039",
+    "fingerprint": "asset1v8wj93nv368uuqmx7ag2rvv0x2x404y0zd3wej",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313231",
+    "fingerprint": "asset1hqyljrl577mv6pggwl7hcy3a7tknxv3sqgvzll",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323130",
+    "fingerprint": "asset1d89yn8gv3rfzg9f29u0cxtf27w2u8ywwqz7989",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323131",
+    "fingerprint": "asset1auy0909scfh72z2mpzq5892c9lmseqjtdlxuuc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323132",
+    "fingerprint": "asset1jgk7wmytxvpfnxh70a807hg6gn7f52wv9vye44",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323133",
+    "fingerprint": "asset1l3vqhngp2njv5cx5r6k0mtjy2k8xwgzul9ezld",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323134",
+    "fingerprint": "asset1kqg23a8u2jpzekmfd3rkwc3wx5y5adghk5w0e0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323135",
+    "fingerprint": "asset1t4eaggt9wlsh2yn93f8j2n6ek4xczl6hj2ey9v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323136",
+    "fingerprint": "asset1ag7ka9mmv3w97k4338zvpus3skqxc2zw79j888",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323137",
+    "fingerprint": "asset12frh73rrx6e49tlnypknj0rgeu5aspf23v98mk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323138",
+    "fingerprint": "asset12usgyll62j20q3m2kywe7ns8ephvzf6q2tm6z2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323139",
+    "fingerprint": "asset1rug4z5kdnwqamx6538ev0ae4mejvvggp0egdh2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313232",
+    "fingerprint": "asset1z5mu8dhhz4mhgctse4400qpm4u0mkduwwhae7c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323230",
+    "fingerprint": "asset1kn4nd7g0my75l9w5vsal2gguvhck89qr8kd04k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323231",
+    "fingerprint": "asset16rx49a4sy6f9xqp9hx9qtcz56q7wdchf9tj9tu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323232",
+    "fingerprint": "asset1g5h7rj3jtuyruhz030ydw30jyfqaqcxsddqu3p",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323233",
+    "fingerprint": "asset12uffgg5hz75dy22g0f7r067g66r3helme76cdc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323234",
+    "fingerprint": "asset15xjkd4yjdzarfupg70w6jxlg4n9tgpm333zsh9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323235",
+    "fingerprint": "asset13w4xk8tvfaee46yt8a5ppgm9h5unkdzrew8yyq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323236",
+    "fingerprint": "asset1kyqklj4m09jcvpdssfgdsu35897qpjkknuse09",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323237",
+    "fingerprint": "asset1j0hyz45xxc607n8uckqzl7g93adlwlplfsyvmd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323238",
+    "fingerprint": "asset1u6dua4wsh5xxhzsegheu3244y93nymvjysk67k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323239",
+    "fingerprint": "asset1whka923qg0rkmfzz0frhzchmjje8lehs7q89hd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313233",
+    "fingerprint": "asset1a649n305v9qr9sfmx9ufjxx7z4ysgs0pxg2ey7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323330",
+    "fingerprint": "asset18v30336vznqs6u53xpt7p7j5z232j5jzqsk46r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323331",
+    "fingerprint": "asset15eez2eq9gaxcm70pjjeq9ax3uaynem54s7ngky",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323332",
+    "fingerprint": "asset1y4zvxr5u774fwsf25gyxf0wrwn43gqvmquckfx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323333",
+    "fingerprint": "asset1juk4lnsk6ns28j3zll8vzyay9nx65404ak9a38",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323334",
+    "fingerprint": "asset1p8cyyxtwwdgd2u7lag0yumj9gn658t0ryhsyyn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323335",
+    "fingerprint": "asset1f9t6mag4mnv2wvnxmcexczlgxmtpdapas3333z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323336",
+    "fingerprint": "asset1vxcqmrzyvyt4vw89680ug5sv96ymqczzsmsuxk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323337",
+    "fingerprint": "asset108q6lf0wa09uv460r8h5k63nrgpatzcgad5mlr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323338",
+    "fingerprint": "asset1xx7c4335nfyux90ymjq7ld3je8zadwrqfdgv9y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323339",
+    "fingerprint": "asset1y20y9clut6ejnlsuutqtlxjpgh8xtwngxhgq20",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313234",
+    "fingerprint": "asset13ferac4r6zy47ncagegald67kwvsmwuempmv8m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323430",
+    "fingerprint": "asset1d0yzh4eymttzw7luhgfcc4e5sg0qg62xu5y4vt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323431",
+    "fingerprint": "asset199yg7jpx3xlhjk7f8hfrafre8yzp4kra7h4k0x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323432",
+    "fingerprint": "asset1j2c6uulpmta7uvy5xq8rv7apd5fnypxczq4wgz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323433",
+    "fingerprint": "asset1p7akhkymx9u4ztt8gxgymvka9c4wjchtfxjtlq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323434",
+    "fingerprint": "asset193p7c48j0cp2qcyg9d4g48gfp87ymjthyqjgkw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323435",
+    "fingerprint": "asset1slyjvw7ckhrjvgjyctrhk50qae2ujrgsnuww63",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323436",
+    "fingerprint": "asset1fagwmrt4uk9zeqy9mskklm2yqksg9492rsf55s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323437",
+    "fingerprint": "asset1j9gyz386gyle3r8dsnvtwvc49psl758hx5pa5e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323438",
+    "fingerprint": "asset15rjkmh7uywt2j0y2unwgvh7fcndxgecpaurg27",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323439",
+    "fingerprint": "asset1ctqa95uwuezd6qevm4cck4mvlyqq7tsxvnc6kf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313235",
+    "fingerprint": "asset1vw59z6gngsuduv86cs2ha7t95wn94lpes5tf3r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323530",
+    "fingerprint": "asset13tjfujags9r7tjlctyq43uqkym3djynjk3hyu2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323531",
+    "fingerprint": "asset1km03ts2r5evkguwz4vmkr6s0y4rvq30kgxt7ex",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323532",
+    "fingerprint": "asset1ur6zq8zas6frgh2sr8wrwxxnrj3jxklecjc3p4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323533",
+    "fingerprint": "asset19eadjsmt0ljt8zmkt84hyqszsza3n5uqq6ajw4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323534",
+    "fingerprint": "asset16g744rwu0gf0v4zaje57489u9z423ywsevzrfv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323535",
+    "fingerprint": "asset1fgs3tp82ms5t2uck46m80nlc6vcx2scxrejtxt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323536",
+    "fingerprint": "asset1vs8rwvepc4kjzlpxufm4zcs7lunr44e2s44g95",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323537",
+    "fingerprint": "asset12v7clrtz7gkq3dl4vsftwrx4340vv8tcrfkrfx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323538",
+    "fingerprint": "asset1u08qq0yw408fejx57k2cfvgcfrwxpgqa84qkcg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323539",
+    "fingerprint": "asset1psytxuq2t957j8dl80m7m3ezfzf3vn5slf88nk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313236",
+    "fingerprint": "asset1tanq9atuzan42j6ngda6dje2vnhs8ujl6s0s7z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323630",
+    "fingerprint": "asset18dqu255vmdhu8spkxpvfy6dyctcv99x0yazkyt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323631",
+    "fingerprint": "asset1e5ut99jedml8xkmdcl6sqdfudxd7mn2uujv0nn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323632",
+    "fingerprint": "asset1eq5pnn8zjmyawuj462lhv0kp8jhj0snpaze3ng",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323633",
+    "fingerprint": "asset1fxrnzzky7f0efmkl6qene2jpz6hd4h3ht9w38p",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323634",
+    "fingerprint": "asset1s0d327ma0unl3zpcfddq4446xj2jvfecr2sdt5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323635",
+    "fingerprint": "asset1mx8lf69qsfkp9v37segkh56l8803c0zek97ajl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323636",
+    "fingerprint": "asset1eq5cgngt60e0qjf2tpa09fdphgl0faymjxm5nv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323637",
+    "fingerprint": "asset1j5qygmyhjqaz2rr5v0njwgxj40qglzkl5a5t4t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323638",
+    "fingerprint": "asset1855htz6jqj2l7m0xdjjk7nshxcquvvxc0ekaq7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323639",
+    "fingerprint": "asset1zyf7hw466s2hsl0uj5jpyruam6kcyazfkqy6r0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313237",
+    "fingerprint": "asset1qgmp86vjdfszm97fthwra47n3v7dm39543nzeq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323730",
+    "fingerprint": "asset12hvnagzdygrfl9hpwf9h9j0xkg3enhexgkr8sz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323731",
+    "fingerprint": "asset1djvduufqs9zqyezvrj9mtvkjernnc8n2jgqw6t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323732",
+    "fingerprint": "asset19nwzr3spc03yhtsy32hlwvr5xaznf2ege8xxpk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323733",
+    "fingerprint": "asset120xx609j0s4u60p98skhenkgmk3nx8nme9pkfq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323734",
+    "fingerprint": "asset1panz36mhckrvwkpp5kd0573u6k7xaalrl6a5u2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323735",
+    "fingerprint": "asset1zhrrl7u4uf6km30wx5l4wxnznh46xwp29pvtc8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323736",
+    "fingerprint": "asset12pze5wg4nv7rkmmwrh32g68evlm6escy2uqku3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323737",
+    "fingerprint": "asset1newtxjpyqv3hvsfv9qepwymm62engd4g0zg67d",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323738",
+    "fingerprint": "asset14f60mewfp6cfe6yfnhtxzdp76zuzqez4kuufha",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323739",
+    "fingerprint": "asset1ylhcn4dr5gdyg80cu9dg54w239peahkjlllw09",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313238",
+    "fingerprint": "asset1rqvdtlsthh7wley98rmll6zk364jganra9dr4z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323830",
+    "fingerprint": "asset15edqep9jemre0rhvfkej6m96sxwt64d8asem5j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323831",
+    "fingerprint": "asset1j2rpcazg76mrdqrrwsyh33zah87pqqshpwaksx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323832",
+    "fingerprint": "asset1trdk7rhecu7f6mu8f07k69u9ztyxwxl27kwqad",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323833",
+    "fingerprint": "asset147ra6c49tk0zxcu4uyyf98rnws6wsxpgpfhssr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323834",
+    "fingerprint": "asset1w2m0x0sfn4sd7h4lnpa6mlxzg9m30p0lvxufn2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323835",
+    "fingerprint": "asset1h9mhaf75xevevcretvwuvu2uf3f7zkruwjlfnn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323836",
+    "fingerprint": "asset1mgyzjm3gltx93ayvgjaa9h3pajmtykmquzmqqn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323837",
+    "fingerprint": "asset1f2yam5uzmhv0wwqqf4m8t9r0ftp96f3j7trvvk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323838",
+    "fingerprint": "asset1kgnhj3n3ku4ltl45hehmep5342cmrymum2pe9q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323839",
+    "fingerprint": "asset1pfarhxnlg3rt44nvmzwdjxyut205yf27t7nq37",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313239",
+    "fingerprint": "asset1pj87l47tkrdhhzjhhxvczax4s3n48cd3kh36c9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323930",
+    "fingerprint": "asset1lrzeu8pxpvzzwjz4jajk4wejqa8veaype9nkrz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323931",
+    "fingerprint": "asset1ng3gkr9ntt39qhvc54zytk2urqnux7jhjku78g",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323932",
+    "fingerprint": "asset1ukw2x9z4keaakhwtydkvfsfhqq2ak4z6k78hp5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323933",
+    "fingerprint": "asset1d0l78yvg0633wezrk7ffds2fdy9lh8sjt7tvtk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323934",
+    "fingerprint": "asset1zlqryvu2t2hpgmvy0w2u82nt9ntpujemwketew",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323935",
+    "fingerprint": "asset14xy676vuc0avsj2vzf8xaxddyhy790mr79tx5g",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323936",
+    "fingerprint": "asset128tenp0mlyq9jg2wdvy90nl9kam4m8cwuaw34t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323937",
+    "fingerprint": "asset1hat6uqeylw2nxday27p69vj4wqmh5n974wp6n2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323938",
+    "fingerprint": "asset1d72jg06v27wpd5r6u48nvgdlnntyklzw2khd5f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431323939",
+    "fingerprint": "asset1dhelf9z8fysqxszlexmnmv62u7jmqlg6v80yrp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643133",
+    "fingerprint": "asset1e0q0h0qprr8n0sjvm5qv2vyq8mdvf4yd5pxyt4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313330",
+    "fingerprint": "asset1m7248jjchd462lylg6h6tpj70shxmdku2rrn8z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333030",
+    "fingerprint": "asset1axlwpg5tqap04nv7xavudrzejyemu0rs5jxxt2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333031",
+    "fingerprint": "asset16jywlw0r3gufckt5nh876s8lyxp0mcl542nldk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333032",
+    "fingerprint": "asset1vpqx3xsxx7hq3yr9dpjvn2l7tynq6y68t39l60",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333033",
+    "fingerprint": "asset1hr7v98spg0rxxsv7tsqmkklsnmf9ydlqdtklhc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333034",
+    "fingerprint": "asset1ufyy48srq5k8ym2slcphnwm6qzqag27wvmgaq2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333035",
+    "fingerprint": "asset10n3pmtxshtvjcml0dsjz40whqxujd3yqxa09kq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333036",
+    "fingerprint": "asset1ch4xt3f8vmm83xsv5cngq4qvdtuccwtkylryd7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333037",
+    "fingerprint": "asset1nkls2lrpw44jj8dwtft3xl9heepgfhvvdk9x3r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333038",
+    "fingerprint": "asset1qv3rusv6rpytwyqu6dqwpyvq59s96egkvtgu0y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333039",
+    "fingerprint": "asset18xg9z8k06sflqwq6grhmudzn4hwhahngvcnl2e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313331",
+    "fingerprint": "asset1y8xurd3tdwy8qwy6y0daj58r5myw7gcr57ljs6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333130",
+    "fingerprint": "asset1efzc92x2hk9yh2lsrfwtutr9xpfctsh4e3r57n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333131",
+    "fingerprint": "asset1wrm7xe587gj25vd2u653hdwccdmyl0v0uvtjz4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333132",
+    "fingerprint": "asset1tew087pkkezk5ndz60ral9y0g7pwfr57vfkyla",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333133",
+    "fingerprint": "asset1agpta6kt33rltupq73z5xrc0z76sm7hc4qytn4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333134",
+    "fingerprint": "asset1p7cafml62y7nnz4d38wjw7vgt5a8ulgud9t4n0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333135",
+    "fingerprint": "asset1864s6hpdfp3jl5zg4ftdz3ry4juszphf8vec8y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333136",
+    "fingerprint": "asset15p9dz8kenduhdkd00pwrgpe8ljvr2wa4s95lla",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333137",
+    "fingerprint": "asset1uz0jhm8ahtls0wv8da4fz76tkwhesltupps0f8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333138",
+    "fingerprint": "asset1kdsyucl0sm04t8cam83l9f8j5epr6ea8zare53",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333139",
+    "fingerprint": "asset1l4ueexm5z5y2zud5qqz5tndtvunea0m7vek5n8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313332",
+    "fingerprint": "asset1dvc9ecthx0gpq7dvhjemfpgvw3k5t02uh525l8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333230",
+    "fingerprint": "asset1rrhacxkrsngsch5gm6hfr7a25vyqednzehqedm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333231",
+    "fingerprint": "asset1ptcwh3yqsy5q4u8gs7hrwtek82msezy9253avp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333232",
+    "fingerprint": "asset1s8v6ktfeqj58hkkp6cz5wslxq7xd7rzyju6hpm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333233",
+    "fingerprint": "asset1nastzy0nya769mvygug5pgqmg7jwyzevmr2h4d",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333234",
+    "fingerprint": "asset1zhx24z9m5ee9jklkuk9zhxggwe2sef3mdumehz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333235",
+    "fingerprint": "asset184g9mj94xedlu4rqdxqv5gcnrq3wpwy2yhs5mz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333236",
+    "fingerprint": "asset13uuyel9ehu0h8dxy0ty8gpy8x5x7gm6cxjrqps",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333237",
+    "fingerprint": "asset1yu40hvtu9g5pkn5d864e5df5kjlhggxpwayn69",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333238",
+    "fingerprint": "asset1v43md7hrm75uuc0r57ayk9nke59p5ayxznrzsd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333239",
+    "fingerprint": "asset1luxe0nlyjlpeqawl9twyj3lljweulzp7u0tvcv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313333",
+    "fingerprint": "asset19xzkxdzjhwmuth0jrdv06sfpm3snpk03uf375z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333330",
+    "fingerprint": "asset1yepes08s3jm30z2z0v2fj55mxeqszj4ehrt6ym",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333331",
+    "fingerprint": "asset18pgksh6kzee4c4vhu4e5274eeustj3am5et7gv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333332",
+    "fingerprint": "asset1zpwav5pu7u5kl3g5r7jzfyt67xkrlus3lkqkrn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333333",
+    "fingerprint": "asset1eyt28nfltyf95235kf0vdv6whuyc2a4qnqvfda",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333334",
+    "fingerprint": "asset18lhm6gagw4cgkg369elc0ahyvnmeg974e9pewn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333335",
+    "fingerprint": "asset1uae8ett8hnvlr59eepn6eq9dcp2svlw083658n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333336",
+    "fingerprint": "asset19mrrs25vhnqwxvc9myd3j9n2d4z2407kgpyekr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333337",
+    "fingerprint": "asset18wl0jgc59dxv4t9caq9ztcw5w692m2uq4ng2lx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333338",
+    "fingerprint": "asset17lzn9t2em0hd8tr9ttlwkdqxc5a5x2h0kw8cex",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333339",
+    "fingerprint": "asset1krcyuj3ces0k05mufjdhrmnkcfmtau6q8j62ex",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313334",
+    "fingerprint": "asset16zmgntq67p0ps3a7k828wsrt6yp8u4l4jjackj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333430",
+    "fingerprint": "asset1zefav7qt3p8jysu4r96mvxzsqlex4caww87ahl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333431",
+    "fingerprint": "asset1wxlpja95an7rr269mv6pemmehvmg2t2w3zl8c6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333432",
+    "fingerprint": "asset1qa900pl2t4f5urustd6mf4tuac90yum3xfh6c0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333433",
+    "fingerprint": "asset1254srkf3jz5ekw433zv0tt9j94g0a3n0dnm359",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333434",
+    "fingerprint": "asset19rre9hpzktgdug095ryhdqe2tzuqe25ldc2kfz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333435",
+    "fingerprint": "asset1aa6r79lfeuac4eylp9ylxd75vu2jf34k0jfz2l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333436",
+    "fingerprint": "asset1xwh32g6h4p963fphkse0ezme965p2qns227fct",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333437",
+    "fingerprint": "asset19yenjvnwctx736jha5ppuzq6g9jn3mvefkrwac",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333438",
+    "fingerprint": "asset1d9wtug7g5tm09tq8mn0p5zt24avse8fff0lmyh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333439",
+    "fingerprint": "asset15w9adf4cdgltey6s48stdwma4vxf4q0j9j039n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313335",
+    "fingerprint": "asset1w2zzl8kzdkp2yet7xejyff8uhdnzs8cm6a6rpr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333530",
+    "fingerprint": "asset1ldd4m403hjz0jyjm8wcxyudeky7frd398fvyxc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333531",
+    "fingerprint": "asset15c42v4jq7rwmuh20tenmg4z50krpdspqftjvrg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333532",
+    "fingerprint": "asset1j2h4d5uf8f8ar8ypmznu3s7lnae9xt3z3grcgm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333533",
+    "fingerprint": "asset1ykszpwdkhufe8wustk9wa82yr9y48x75tw4yk5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333534",
+    "fingerprint": "asset1stca5d4jd8gzewxxr95ge6sqa3gy5wz5fmkec0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333535",
+    "fingerprint": "asset1fepdcyxgkz8u0990jk9ttnq94t4eehcy3wrgjy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333536",
+    "fingerprint": "asset1af4dqhnayjkrayjnmfswuwsy99uu6u5wq04eup",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333537",
+    "fingerprint": "asset1geg30rl8xj2dq2rlmcrdezslcr2wwgmfj99t5v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333538",
+    "fingerprint": "asset1swmakm0nn3xdfvsjv5wwlx2kdvj7wyqukdpway",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333539",
+    "fingerprint": "asset1cldxtyfxmqyk2t04s5njrevh8ulelf22nltz0f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313336",
+    "fingerprint": "asset1y6efcfn3fakx6wn8rxez2a8tvdjf5juc6zqknp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333630",
+    "fingerprint": "asset1ce6ve30w9rgsnt8xzaqnfxw45syha8xargdryv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333631",
+    "fingerprint": "asset1429j3clrtp5tehxfmsw0ayvufwjd7csvklddsy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333632",
+    "fingerprint": "asset1fgmu3mhlm4g4qkvhy3a40xqv0jenwa9mgch8ef",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333633",
+    "fingerprint": "asset1w8k5sxynytg88qkxepjw7sspwfsg3mpa2w2k3j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333634",
+    "fingerprint": "asset1f9t6q9zcyjg7hnu04g2kjfcn06lvurk0t9lty7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333635",
+    "fingerprint": "asset13z47jh9ucg5zuu4qz5lh6wzswkffpaqu40sluk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333636",
+    "fingerprint": "asset1mza056pzwmk7n6t82d7vweh58pr2z75mda59nx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333637",
+    "fingerprint": "asset1gs9ykf4frg952hqnzr7vcxaytac8gxynm3l7ed",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333638",
+    "fingerprint": "asset1rx5g5hs3s89d9ak00xuhmdh3c5vr0m927culr4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333639",
+    "fingerprint": "asset1a02vz9k4sgeeyc3wfrmd76dw30w3n0sq78etrz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313337",
+    "fingerprint": "asset1wnj5wdmavvav5xm0rdk5y6c8ya0j5jc7x8kyka",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333730",
+    "fingerprint": "asset1na7pxntuqtdn9e47js3h4ncjygvqw2wzygz2qc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333731",
+    "fingerprint": "asset1yupty59rl2e60w6zyp949qxz99awtcux4xkph6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333732",
+    "fingerprint": "asset1awu6y22xlnknhta3nnr2q4ur07v49z09aslq5m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333733",
+    "fingerprint": "asset1cawgwtupdm35l5kj0chsm3ayhegsnt6ehxa0lk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333734",
+    "fingerprint": "asset18clg79krza8cu8g8v2vuzquuxwrucvqyacj9r9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333735",
+    "fingerprint": "asset1kyvgsq6n9lj6kkmq8zw705z8hlmd8lwv7jdgxp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333736",
+    "fingerprint": "asset14ydn5tttjylglap6ewzukx5kysel5cc6qqk0st",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333737",
+    "fingerprint": "asset13a8t7dhfl5x7alp6c7kmhvsvrw2rxde8adxwre",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333738",
+    "fingerprint": "asset1d6rse6qcxhusdl3nvtrrqenghn83avfgctht0r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333739",
+    "fingerprint": "asset164almlra2pragws5m34a0d8v74wrrn9vn277u3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313338",
+    "fingerprint": "asset182ceupvs6e6u9wqgr3vtcyfz7ext3y67lfr0f9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333830",
+    "fingerprint": "asset1psnh6fvmnylfv8d38u0c0hrn9qlkds0q3pt9ag",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333831",
+    "fingerprint": "asset1xj2e7hk5khyxsrc5sr9defj7zjl4zfw25ld32h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333832",
+    "fingerprint": "asset1qzpmmdkpncsy39jnfk0526t6z4rar34jf5sqqh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333833",
+    "fingerprint": "asset17ejv8lxcj3x4mddy3dgt3zkpehgrwe0ymvqcxu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333834",
+    "fingerprint": "asset1x8cvldeqg54xdtwp5dh96d2cvw69urd4up7acz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333835",
+    "fingerprint": "asset1ssaryxh980acpwgem9qqdzeww2pdn0jmaue84z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333836",
+    "fingerprint": "asset1l5wqwyusln2lk7rcmlumac36u2s4udzw84wz7c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333837",
+    "fingerprint": "asset19c037jnevgre2n5yrlc97ja2qczc82nsxuhgjd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333838",
+    "fingerprint": "asset16k6a023ulzeq4cvd7amgele68znn982llvugt2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333839",
+    "fingerprint": "asset102e55aurtzadgg5kc2pjk7nel9x9sc0dzxmp9w",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313339",
+    "fingerprint": "asset15r7wqjfxwt9nps7ks4r6lq64fx8fpw42mzlf27",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333930",
+    "fingerprint": "asset16caprn6p6mvdqtc25fwnsvgcefpksyezdpzpwn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333931",
+    "fingerprint": "asset1hugkpcrmqv06fe5us9etv5sweqvjkjt0plxklg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333932",
+    "fingerprint": "asset190ywg8wky4ud92qmzkh620ae5pq7ugtym0cmd8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333933",
+    "fingerprint": "asset1kq8e0dzvsafxj8vw048vlrxrxksdjakray7ls5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333934",
+    "fingerprint": "asset10f5qp39j039pkkcn8pckh47ymk7qkechnrv4jq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333935",
+    "fingerprint": "asset1v0rmlzckff0rhh7pxrteh5gn786eqxkg0w6hkz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333936",
+    "fingerprint": "asset1rvgl8yy5x7z55nhva75ph4qdn25wwl86lt2gaw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333937",
+    "fingerprint": "asset1x6phhcnjnqy93msgu3afc86v9lyzvtctp2995e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333938",
+    "fingerprint": "asset1yje2jrp58hdum94shgy5lgv24ywfjxamlt4e3p",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431333939",
+    "fingerprint": "asset1hfhagzqsysnwl3a0lv5ktqqtmd47gz0n5t43cd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643134",
+    "fingerprint": "asset1pz4m7kqghq4e2z96vg7u2zruedx0fakst6gss0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313430",
+    "fingerprint": "asset1rz0unvmqpqzl5w0clq4q2pszk6kc6wng50rszq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343030",
+    "fingerprint": "asset19t3tdgqp5apwxdmrcch00cvys5nsgcmlr9gzyn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343031",
+    "fingerprint": "asset1mfe2kxl9ypltwcv48hsf7y2cs3rh4gx0m07m9c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343032",
+    "fingerprint": "asset1whrv69alyhgq0krm506j35mxsgazztrum2v3ul",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343033",
+    "fingerprint": "asset1jlhamm0stck220fg25x0z4hu5ve50ssp36v62n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343034",
+    "fingerprint": "asset1qgfhm4jjnxvj2ramxewwcncgessq5aauhwhw7f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343035",
+    "fingerprint": "asset1qp6wakdhfu2u4wnx3jjhescpvaktredjmj9xx2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343036",
+    "fingerprint": "asset129s3ndkuwv48wjvh6nv3xylrhyj4lfw0f399sa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343037",
+    "fingerprint": "asset1lu4cnzwyywaaj078rndpedjz38s8ejedrqn68j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343038",
+    "fingerprint": "asset1mylkgsxrg3nh8xm6kr9pmnh47vutyvskrgf38k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343039",
+    "fingerprint": "asset19hrmvhlchdaejh8803juwv5ey2a960pqe38qq3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313431",
+    "fingerprint": "asset1qucjl54ufzuahk9q6r7rsy4mv02ht87p25a9r7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343130",
+    "fingerprint": "asset1k493kr538p2hdn2u0hsel3tgmj2zggl0dhq9gc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343131",
+    "fingerprint": "asset1uur5hjft9czk9zqhdjd7pnegtrqy4ge0fpnc9k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343132",
+    "fingerprint": "asset19r2mr8ezzw9sq4dzxs259vjpnexcrt3yd0fl69",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343133",
+    "fingerprint": "asset1sptqwn8yzqanfs98wyrntgmdg7gvl2xu6ql86z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343134",
+    "fingerprint": "asset19gtx37vgycug24h8gmlxmuhgswu53q7ed0km7t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343135",
+    "fingerprint": "asset1dm730rzhwm4t542vk063kgqeqzwtel3j4z0uyz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343136",
+    "fingerprint": "asset1g4kraywh22zgqv784czmfs23zg7ec727zumvvs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343137",
+    "fingerprint": "asset15wj233h5ed7kcwfndk8ea495zcv5kv22xxy6zj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343138",
+    "fingerprint": "asset1shhcmk44leyd2mq6puekph4rzfn9jfl0cj76k8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343139",
+    "fingerprint": "asset1z4va7a73qgwm5vxxge6u59e3njyc4q7pvfj33a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313432",
+    "fingerprint": "asset16fmp74n9vngjmgg2n9wclxpdmvreua6fhcp9hv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343230",
+    "fingerprint": "asset1v3a2hq9haee4hh7pdv8z058shyus54pg7sw67z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343231",
+    "fingerprint": "asset1xpfkm9cdtq96typ7gmgjt059w92crhmp7c4eal",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343232",
+    "fingerprint": "asset1a5d83ztfk8zxzasjsfhsdsu5l3nnvw30tj5qcu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343233",
+    "fingerprint": "asset1g0v850cdufx964le6xu2hpa6grt626l6d7d49n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343234",
+    "fingerprint": "asset17vfteus2xccr0054dk9nrw9n6k83gsvtqss655",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343235",
+    "fingerprint": "asset1nqyqxr290fwamv7tr0fd7hg9zx25p27f78gw62",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343236",
+    "fingerprint": "asset10pxjxz2c00ht6frw2kyxfcmcty8mm44hp7jrky",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343237",
+    "fingerprint": "asset1fxv3adjccp6lhrjc5um4fdz6xj2f7q2nmqsvx0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343238",
+    "fingerprint": "asset1lsuzrhtcn3mxd6wlsxpzcvhmyl9m2hu8wj33x2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343239",
+    "fingerprint": "asset10hkup6jrwc6k0rccmxdn6new0cgw2266zk3ft9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313433",
+    "fingerprint": "asset1add2dpgpv24sr7pxx7kfx2u0anfmlucd634vyr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343330",
+    "fingerprint": "asset1h4lg6aezwsl2h0phzwzcrvqvx4yv6qj43t0s09",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343331",
+    "fingerprint": "asset1zlxkqu8dgtv7d93g9qdz7g3ecfcs9raakp6fj0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343332",
+    "fingerprint": "asset18wpnxucq6484q8yaxjp70y9xdvhmzxpj87uhna",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343333",
+    "fingerprint": "asset1m24vjm2q75pyhpaqw826ktd4l2k6frggy8na87",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343334",
+    "fingerprint": "asset1d3enytkjfyxzgs3ctems85hr9h0j8t0ezr24hr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343335",
+    "fingerprint": "asset146e0mgwsvfn9dk7qctldq3drvdnhperf2vzsuc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343336",
+    "fingerprint": "asset1t8nfs9k22ghn3vxsadruu2j9rl6gvm4vqasecv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343337",
+    "fingerprint": "asset1a8wz4p0nfl9ugpfyv76jmt463rpryqzfeeluun",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343338",
+    "fingerprint": "asset1c9vtyqqlwmk4gf624kh6uzx3628xylt3yuzc89",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343339",
+    "fingerprint": "asset1fmeu995y6eme20jseex8gy5yej8f2mrt0yzpq2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313434",
+    "fingerprint": "asset1gl54umqjukdn99jxjhnpj9y4rvvg2femdx6qem",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343430",
+    "fingerprint": "asset1gq84m6p7k7vmffmhrc9stz3utg7hcf0x05pv08",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343431",
+    "fingerprint": "asset1gxdqswfg85ekjgh7flf2a6w3ar00haa9u5edle",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343432",
+    "fingerprint": "asset1trq3485qpz96mlzxmmnjyv0xqeapn4hk9n8yts",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343433",
+    "fingerprint": "asset17q8zmsznrza3yj2nc62z0zk465v4m8w3t7q4m5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343434",
+    "fingerprint": "asset1g77ya0usdmnlgd3nww6gpalenyne6afeusyqma",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343435",
+    "fingerprint": "asset1pr4lm7k3rhukfwemtchc9eqayjly9cjlxkwwa2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343436",
+    "fingerprint": "asset1hxxsuexacdpmpykskyvx5upjpjt777auxgl2kx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343437",
+    "fingerprint": "asset1qs5acyf6fn7s74kprvz3t3ng52w3ykkcc0vw2a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343438",
+    "fingerprint": "asset10k348yc22axxg7yazsusj43r57cm0wcr9fjydn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343439",
+    "fingerprint": "asset1yzuj8c4zdeya8s7sgpghtqxgkqaz37dm9k8y2e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313435",
+    "fingerprint": "asset1adhahul922vqa0dnrc4z32dq820hyum9pw5d8f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343530",
+    "fingerprint": "asset1urmnc3ys9h3pzsawfd7waxa2tye2rtgfrgmhwt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343531",
+    "fingerprint": "asset1k0t2vpsx4a6rgcwa8v4cckzna85dc9jdya2cke",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343532",
+    "fingerprint": "asset1jq4jg6wmcm3y9v5evwm0lcda4eks552jqcctjr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343533",
+    "fingerprint": "asset1c68usvsntcrsvfwlq5kl6wy6lk6jtzskdknw5q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343534",
+    "fingerprint": "asset13v9uc8dnee5hvp50wqznslu6jj2kqmcx0ee9tf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343535",
+    "fingerprint": "asset18syten5lcs75agxxmdcu0plrn5a8fzqac8hzkh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343536",
+    "fingerprint": "asset1pep7k4xx333kmmms9n8a7d2twnk3hdpugkkkz0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343537",
+    "fingerprint": "asset1esxmte4vke03a23l4hg8egg9yha5e5rx69ag6g",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343538",
+    "fingerprint": "asset15nupmkqg64euvaq70xzngfectt9pudw8prpflv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343539",
+    "fingerprint": "asset1739gm5p7lsdtp3muta98ceesf828wkwd54a3n4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313436",
+    "fingerprint": "asset1nl4cwkupp0fdwcm36qgelnne66xrwh9clqa67u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343630",
+    "fingerprint": "asset1xfs3zx4zaagkj6qj0q7a5hj455qfhvrplwvusa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343631",
+    "fingerprint": "asset1ctlgrkrn80dwyhy097cx5y2v5xxfev56qph9mp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343632",
+    "fingerprint": "asset1u8hpzfu32tnppjvl349hn5pwsq0upgcgg9nc2s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343633",
+    "fingerprint": "asset124xzqfck5l2cjthcmejzv7alxdqcwgr5canscj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343634",
+    "fingerprint": "asset1jkc73eppc8s9y6nfkgsqep9dm8l6t9ef6ndjap",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343635",
+    "fingerprint": "asset1xp4md5ydfg96wry4yc90ta9zkned90xtthuprq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343636",
+    "fingerprint": "asset1a9znc23fadsxkl73mwuu2t35hagyfnah86nwnl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343637",
+    "fingerprint": "asset1xwfvuelx5zhakpuhpctfz7gz0qxsptyfv5g6d8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343638",
+    "fingerprint": "asset1p8j4qhgm6fn42z2djrq9aj7w3fe7wcghurw05q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343639",
+    "fingerprint": "asset10cyznyetmhlt8mkf3rkprf04q04xhvzjnz8tq6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313437",
+    "fingerprint": "asset1y07m0pkkqq6fjcpxnv8xqahc9msmtncn8zn7ym",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343730",
+    "fingerprint": "asset1mpzhyujcjn6zzm7p8s7mg65xhw2gu4sm5js0gp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343731",
+    "fingerprint": "asset17tea68x5nvkgqg5sl28lwyquuwu3474z92hx55",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343732",
+    "fingerprint": "asset1jmh7eg8vrqzvd5y4c6zc3v7neasn0efjnk6gsg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343733",
+    "fingerprint": "asset1r0wtfqx5xh4dan997ffs5x4mu2uku7cj70ynhd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343734",
+    "fingerprint": "asset1x2mvlyazq4kjvgajlkghlahv5xwzgw6apkqpc0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343735",
+    "fingerprint": "asset1phzn2e08x6z3vt4mgc69ak79efdgsdst3m0jsu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343736",
+    "fingerprint": "asset10953glgfpuasalhgvsl5t0ks3ef02m34472shm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343737",
+    "fingerprint": "asset18ytddjkf80sutmurp02tavhpkkkjn6eln89h2e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343738",
+    "fingerprint": "asset1d0lnw0hg0fhmyhnk0p4h5mw4d6r803hsad2gx3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343739",
+    "fingerprint": "asset1krz3tue97y362yfxca9a8t5slyyd2um3qzwmsl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313438",
+    "fingerprint": "asset1ypuj74f63mx0f8ccn3rams68q3rdtpjau5xskr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343830",
+    "fingerprint": "asset1njskaywnwfg5ray3d9x404zgsfrhwdekzsryy8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343831",
+    "fingerprint": "asset1c0hezvzn298gf9zsa0juaxesxhdvfc6utxf72m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343832",
+    "fingerprint": "asset1sg96zmsvg6kr5cujamgf6q76t6shkdgv8lqxth",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343833",
+    "fingerprint": "asset15pt05fz3mf6vyawmdrvtle7edxdzujjyjsd9ra",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343834",
+    "fingerprint": "asset1m0l7cfyzhwyurhr0kxn6p305mzg60ewvjy6gq4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343835",
+    "fingerprint": "asset1f8m6yma7q9u8zja25ef3ad46yk8ystcehe4msr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343836",
+    "fingerprint": "asset1u062ha3kpsgxe9nmj8ka3je6tv33k9rk4wjp68",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343837",
+    "fingerprint": "asset1u7kp2va3g6wutkqefsqqaw3le6dwyef8w5kkmz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343838",
+    "fingerprint": "asset1ky45x8l4h2ygar09xjaw5e5pdvzjc2996u3j6w",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343839",
+    "fingerprint": "asset16qkhqvmcshaen6m4mfplqn2wps2grceng49jmx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313439",
+    "fingerprint": "asset1l2m0klvrc53dgjnxsq0u4mqyhnjlhhpftel89q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343930",
+    "fingerprint": "asset1ul9ruje0lrxecyfzj2gzwgh603h0zyhe7fvtuw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343931",
+    "fingerprint": "asset1t3pa5pulqvn3tgy85j2nu4xtmsklw8nngp5cfw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343932",
+    "fingerprint": "asset1fdtv5wajw2htwtzmjvkud7qp2gcf2cal6nxa45",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343933",
+    "fingerprint": "asset1cu3e3s78v3adpe4ly9e7g3zq2x2l5t88dlqq6j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343934",
+    "fingerprint": "asset1655urpt78d6k8c72x7r7pw6nlet7wnkjqm0c2s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343935",
+    "fingerprint": "asset1tjzh3fel7aga45cdwsynuwru03ceam4mxw2wza",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343936",
+    "fingerprint": "asset14xsx2c563vl5v3qaquwx0w5sggj22qmkf0ds5l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343937",
+    "fingerprint": "asset19e54qzazma645ygwwfe5n4mweshzulzkul0dpl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343938",
+    "fingerprint": "asset12jyhhdjmpe4c83kuwx5rnys46pt028c893dq9m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431343939",
+    "fingerprint": "asset16f8gu7a22f0nveuuqjy9uw9qpdez7pgns689nc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643135",
+    "fingerprint": "asset1cr6psudq55jpw8csmjt3cxd9ezy0lzpgwcnd2h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313530",
+    "fingerprint": "asset1s0g0cayzmcxgwxkdpns4s58f923kqhqwt4vp6m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353030",
+    "fingerprint": "asset1sh6rg9h3xvghm3zv8ywygk772he4mjlvzrmheq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353031",
+    "fingerprint": "asset17pl95fw92v6unhzlctmylteq5nja7jmzmghtw8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353032",
+    "fingerprint": "asset19mnpjupsqzea4895ccwl63n6epcavp9h75n8yn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353033",
+    "fingerprint": "asset1k993337kuzalkj5pus74vr64awudmd3wfzd37j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353034",
+    "fingerprint": "asset1yxgkqucxh5v64zf9paw0hhvhadrkm36gp4mxvz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353035",
+    "fingerprint": "asset1acpxv7dpzx9epmxs38z30e8fkf62mg5aufdy46",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353036",
+    "fingerprint": "asset17lez36d5tjkd2kxqmz5c55v8ny29vm275qyt7e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353037",
+    "fingerprint": "asset1wtwp6t8dfz9wwnz0k89y9asuscdqwlddq66sf0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353038",
+    "fingerprint": "asset1xh0wnshu5tljxc4wy2slxp9vhhp64fcz923cwk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353039",
+    "fingerprint": "asset1hrmrx9u99r4rydc05wcxtfvrf4ytxapprf2erc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313531",
+    "fingerprint": "asset1dr4fwqrylcen6h7a8wn697yxlxrhhfzetmsz7t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353130",
+    "fingerprint": "asset1pn9g8uhplq6smumttxsjmmq8ywt8adthgxavgm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353131",
+    "fingerprint": "asset1f88hl86vd3hnay00x2sv5u6nr7xqht2ywurdld",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353132",
+    "fingerprint": "asset1pnq7sh7360p6e7dezahtz3z205049tkghs5tg2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353133",
+    "fingerprint": "asset19m7729ka5r77q0927rs35htu3mv2c8prp80jsq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353134",
+    "fingerprint": "asset14e5zkc2r4yzhnkgtu858dpjxakrtjmz7zfhg67",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353135",
+    "fingerprint": "asset1fd7vszjz6sv40kur00twp4t5zly7008pzdlv8a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353136",
+    "fingerprint": "asset1z3psa2uw8py8r4zm3vk2e4jnqwcy5x4055huga",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353137",
+    "fingerprint": "asset1s85tgp0d4rsmw26sztw0vyc63f0pyecdgtt52z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353138",
+    "fingerprint": "asset1uzq6zrst222l6xurvafc7et46pupn22x5jhxkj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353139",
+    "fingerprint": "asset1qywt8zymk4nc6ym8vaj3zyy3t87tmcwdr7nz0v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313532",
+    "fingerprint": "asset1fzgdsny80zq6evhlp5jvtqd256w8gt5qz7mx00",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353230",
+    "fingerprint": "asset10dghzqttnzc9dm08gacxkr8c3yjev23fvxgrjd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353231",
+    "fingerprint": "asset1nwp0f8m7ugypzqx2qy6a8ss0d59tr0h2nfvpqm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353232",
+    "fingerprint": "asset1638m2p9lqqz3vr7d69x09kzzavm3vly43ymucz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353233",
+    "fingerprint": "asset1d73kmppr7yt4nmghxzy82t7wvfjl7j76hrpcxs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353234",
+    "fingerprint": "asset1kexfkrt2rkyys7ftr3gyfx7aghxrhp68luqtxg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353235",
+    "fingerprint": "asset1cg3d9d75dfr8cx47l0r48370q58ejq52qh4f67",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353236",
+    "fingerprint": "asset1q5qw76c8wvfkpnv4exazgpta3rrjv4jkt5kqmf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353237",
+    "fingerprint": "asset1p3h5kcmarvvgpjq2yjpw7yg7cx36jwgspkzr7f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353238",
+    "fingerprint": "asset16tpd0hp73hwl583aa05eqwuw7cvtpf8lftp35z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353239",
+    "fingerprint": "asset1m9a4nm785tx96vae3ugvg5yfv6s59agm6js85y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313533",
+    "fingerprint": "asset1769uzst3998fscqtzdk7x6kf3w2fnzxksgtfjf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353330",
+    "fingerprint": "asset19pk0gx7lp03rs6q9hevwtcet9g84ykpluafh8f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353331",
+    "fingerprint": "asset1dz2fknq92t9stm9pk3spf7hu5srqnqw27j94r7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353332",
+    "fingerprint": "asset10vrj6wm2hsnmqsrg35lelmj9kh52pnzkk7v2j0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353333",
+    "fingerprint": "asset1yhcxraqqsljxz6jz6tjhke2q775288w9tkhtw0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353334",
+    "fingerprint": "asset17r72stn7vw9w2s7q4nva6c7yg7c99q0wxuexzw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353335",
+    "fingerprint": "asset1lla79697paesme34730nsfq3twx3zj7lmxytk3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353336",
+    "fingerprint": "asset1mqsms8uwzskmtpheu6n55h7sw88n5rgeldrg4l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353337",
+    "fingerprint": "asset173j2xxessaguagwwk0n32eqm5v9g2jeus7vnv9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353338",
+    "fingerprint": "asset18t66k27vf2qwgc0gc6cctf59lkqsmv7dmm747x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353339",
+    "fingerprint": "asset137asymcq4xrxtmj8kzdh58f7g4cfqc7dg6dkt4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313534",
+    "fingerprint": "asset1w07zx5qyzxquaqqru77cy6eahjwf2szzeqakx0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353430",
+    "fingerprint": "asset1vtqef86rmd4nsa6trnfd5vwwc94nh4c6h2dtfs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353431",
+    "fingerprint": "asset1mrg8fjhpcyspf5zmk8nsqhej78p9u9wfrx08fj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353432",
+    "fingerprint": "asset1dwu0m6z44hznpgffjcftrqr2zauryj3k0f7n4f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353433",
+    "fingerprint": "asset12m6v008nzdqm48t0rmmsaxa8j543jhgkkx9lrf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353434",
+    "fingerprint": "asset1tsujp53mdlla3v4rm52wx0w8tz79grvgmawu89",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353435",
+    "fingerprint": "asset18gt24uzs9wj07vmh93s4xecx82qylzzgt6djx4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353436",
+    "fingerprint": "asset182vmj5jtk8h9y2563nzrjx0utnww4898l4wtgu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353437",
+    "fingerprint": "asset1ypahrgnyyj54x3kvxt3au39gf3ftnwdh48k0x3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353438",
+    "fingerprint": "asset13parx87wl75ceydecxzuyexkuvp0gu0yvuw2g2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353439",
+    "fingerprint": "asset14syax5ypxvpyra9dpzcyfnaaqwrytg9w09h8tt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313535",
+    "fingerprint": "asset1lp08zvd5dt5namlvg5kpc76tyvmx2t43gtch05",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353530",
+    "fingerprint": "asset1a7c37atu553s2tedcvdhe245y7hqmakxw0ddhx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353531",
+    "fingerprint": "asset1yzelug2ecnwcc0eytl0pz68j4yzwt3ra5ljrj0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353532",
+    "fingerprint": "asset1uqwcyzeerzwvrukhfdxvr55pdn5cmgygn9ct04",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353533",
+    "fingerprint": "asset124tc6nxcvctkz8auggfmfzge8fxa5ku0635upc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353534",
+    "fingerprint": "asset1zmeaneu7lzku6hncuvzagyakf6963kr3zgcrvs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353535",
+    "fingerprint": "asset13cxj35vxjakqsjvj3zt6pchrhzgg422tsy6ve0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353536",
+    "fingerprint": "asset1zdy5tlfz8m7l7qhgsq9yqcqvusvlxknw3q2muj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353537",
+    "fingerprint": "asset17qpp6vdaawxlezljey3sty6ym5n4epn2es85rc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353538",
+    "fingerprint": "asset1kga8x83v9nplc4hcaguyjd85zp63ewkfwc2t7l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353539",
+    "fingerprint": "asset1sjecendms80mn5zepfdhe3q6dlyz8k8r78rvge",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313536",
+    "fingerprint": "asset1rf94sph59c575ku4fu979saqugpd40c429xkqn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353630",
+    "fingerprint": "asset19pxyw68ekuky94hcx6qfppu28jlstapk08wnhj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353631",
+    "fingerprint": "asset1vhwhs5n94kr4hsyfe5yjyp0eam734nuqmjr4sn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353632",
+    "fingerprint": "asset1hnc8wryex0u8ur826jz0l0978t0fzu4e4vq5q5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353633",
+    "fingerprint": "asset1knvsj846dgl9e7sj5tz3ll726mf8k82hp5npen",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353634",
+    "fingerprint": "asset1872ny4pxk4lkk4qax7tlejlp8rzrdy30e7sxw2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353635",
+    "fingerprint": "asset1xpqkjsantw8l3d84467verztmz49kfc5dhmcxu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353636",
+    "fingerprint": "asset1echctse0473vp2udq4gptf88sk4z3fh3yx5s6c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353637",
+    "fingerprint": "asset1jtlefz62uzkfvtpgjnnz0xhhuacwnqjl9qx82a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353638",
+    "fingerprint": "asset1dfpq0szxhurxlk8wvkewmzk5myynt62xl9tql3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353639",
+    "fingerprint": "asset139mafehfkxcugujnrernxp20r6j7w0dcf9u33m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313537",
+    "fingerprint": "asset186fyks29zutnlxauhkq576qxcxvrkq6hj3vgau",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353730",
+    "fingerprint": "asset1rz6dqh7hahq2xsygylp9frg0jkg3zp54k5y60l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353731",
+    "fingerprint": "asset15ncwtlpaw0p6nklc8k5jlexseq3skclk6kmfry",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353732",
+    "fingerprint": "asset1y6e8a7um77u88nuwz5pp8vy2ukp0lvwu3qj24l",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353733",
+    "fingerprint": "asset13jnwjgrs5msp30uquwsstwnpemvnx9s93s0p64",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353734",
+    "fingerprint": "asset104rrfvd5kqehrhsjanrmswk2h92vuhshnexqev",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353735",
+    "fingerprint": "asset1wxnpqn2aw83hx6jz3wz0n0r6jvxmg3adjewrvv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353736",
+    "fingerprint": "asset19yf2vds4svv9jnfw289edh4gwr3mr4wphy564z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353737",
+    "fingerprint": "asset1eu3pf4a87krjrx9vfnj5hq2vgpa2ta7xwdzz99",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353738",
+    "fingerprint": "asset1rxfhnvn0dadwf5x559hhlgpex57gvgwnc5pgwg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353739",
+    "fingerprint": "asset1r6fd3pxutu9hs9f80u0sj0a6kjankp6rhlsjjn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313538",
+    "fingerprint": "asset1hv7jqhwg3cswcas3rllsy0dc232s033qhclnas",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353830",
+    "fingerprint": "asset1e3p8j3wd5ms3fc3maz6l6hlc6xwmuva09s2w39",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353831",
+    "fingerprint": "asset1p65835wfy7s7j9z99al2y6lv9fr0r8x6c4ursm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353832",
+    "fingerprint": "asset1640t0vvflpmftlsgdarqk898fhf57l28n6a8pn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353833",
+    "fingerprint": "asset142g8c2qnunv683cuwvkw66und83n7hgvpma4xy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353834",
+    "fingerprint": "asset1umslqqq62x4ukhhzer04mtzu4q2tznneu98xa6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353835",
+    "fingerprint": "asset1u83d490503dt9weyje8twp7zykf226zfrvxhec",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353836",
+    "fingerprint": "asset1vxlsuxsd99s4rweywq0xjlfvrumql5lt0e7x0u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353837",
+    "fingerprint": "asset1jhrrsnesnm4dtlqvplt4eukpzvvsj64eahe06j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353838",
+    "fingerprint": "asset1sjrytymtq6schr8uxe9q0znctlczgw98ncuyrp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353839",
+    "fingerprint": "asset1f6v9j8e3ppmvs02jr4mal4uuvwqmyjn3k6xle5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313539",
+    "fingerprint": "asset18zxszy9utms8lwdlh5dtf8rkv6r6a56xty2c4k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353930",
+    "fingerprint": "asset1jslcht96y3ynafwgfzxp3q53yvpnva98qmw2pe",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353931",
+    "fingerprint": "asset1w4f3qra8w3u4s75h2xxq2lpmfq5jl5s7acksk8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353932",
+    "fingerprint": "asset18703s937qxdlk4h4g22kv4fdvrfu72q3vgchc0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353933",
+    "fingerprint": "asset1y8mncgrfwg9yzlxnuememsh5qh9hlmpxtu3xw7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353934",
+    "fingerprint": "asset1qsnj7ap5lcm8fzlh7esx08ca9jkgu3cnqxgktz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353935",
+    "fingerprint": "asset1uurv2p6c76urzsm7yd5l3hzvnhgwwumpf3n8mv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353936",
+    "fingerprint": "asset1e8r8raf39us5ux652xa9l7g23uhdp4sh2wzhdk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353937",
+    "fingerprint": "asset1h876d99p3r7a526f6k3sy3jqx4fclh2dsrfs64",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353938",
+    "fingerprint": "asset19auqc24d0tm3awkxuma46xmd5fcs78d7sa9p3q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431353939",
+    "fingerprint": "asset1j6vhsgupsxz62ep6w6ty3w29knpds0634dzhuv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643136",
+    "fingerprint": "asset1q7y5z6k4tka67xarlq7mul9zyghahhdwdyenhd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313630",
+    "fingerprint": "asset18yv354wn6z03l857ag2nyqerunp0g64plqrn2m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363030",
+    "fingerprint": "asset1l8gructja9t0sptpkk46n3vgql7syvgg7u2nwj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363031",
+    "fingerprint": "asset1543xmdxcuqy26yda5560kcfwnczymqlc64azdw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363032",
+    "fingerprint": "asset14latq5rjlgn6llee0mgwsv26qg2vsjkuf62gle",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363033",
+    "fingerprint": "asset1hfhp2kackhq5leqj24m6g6mfs76jy5eyg2z4al",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363034",
+    "fingerprint": "asset133sfx6lkc2mk99qtdmq84mcce2hlxux7ekt388",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363035",
+    "fingerprint": "asset1ttp4cdzt29n7qhgzaqfshlhueyujncv4tnfuvf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363036",
+    "fingerprint": "asset15fzaz56ru3pqrhfjnac4c8qwletv4j6lue529d",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363037",
+    "fingerprint": "asset18pzfkp0kn2ccsxzd26mhuvqkptupv66ktsh327",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363038",
+    "fingerprint": "asset1m4phnu9g02zlvm5fn3utjllgre7znjmnp0mm4m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363039",
+    "fingerprint": "asset1a2sa3ywup8rgsd0dw7u0ua9cfgq6hxgmrsww8h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313631",
+    "fingerprint": "asset1mktjez2fmgdpd2x9npaeaqaa3y6g53gugn7sf6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363130",
+    "fingerprint": "asset1lju844ugn4vun8j3neft2gnm28kgca60hpj5lm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363131",
+    "fingerprint": "asset1fsqvhzm57y99e2xm9srk8jlqrys3w5ryyj758f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363132",
+    "fingerprint": "asset1c3grxd94vvdqw58amsggrmrlrqmef0ce72g3h0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363133",
+    "fingerprint": "asset1gzq9w4ydw2vhq9kus9uznxf4v7z0rqdy4tw9d8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363134",
+    "fingerprint": "asset1699enhae0v5ezztyuyh2e2t7dvrpgfj43yt54d",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363135",
+    "fingerprint": "asset1n9ld9n5xam6qfrxqfg424qlxym4fxayrrdt0jn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363136",
+    "fingerprint": "asset1n9v9ter8kvpxq7yhs983eaay5wtcmpkm93k6s7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363137",
+    "fingerprint": "asset1jx6mqqperyex7pyrfmyqztlaamuy2uvh2en6tx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363138",
+    "fingerprint": "asset19vdd9wk6srdmwez6qa05wwpxg06z9x2un8mlra",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363139",
+    "fingerprint": "asset1hgq3d2tpuzj4xnpjrj7lctas8xzqx5jclckfuz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313632",
+    "fingerprint": "asset1ay60xtqzm22mad42fknf4ahmqzlphazfrcmmut",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363230",
+    "fingerprint": "asset15y7eaf7fdzvyaq9nedpxlnf0437kzqjh2qkukl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363231",
+    "fingerprint": "asset1mcgzy4wafdrccervnxq2cp8rksa8ugrpyh2rrg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363232",
+    "fingerprint": "asset1gnmrrcr4sllwl453md4xy7msmjp5nx2r72tzgm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363233",
+    "fingerprint": "asset1tuefqwys9s42p3gzewymv4lu9zrjn0tl3sfxja",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363234",
+    "fingerprint": "asset1w6z4f759dqrf69gaa63sr0wgj3fyeqesx3wel3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363235",
+    "fingerprint": "asset1lmdwzlmmvgq7dn4gpuavt34v0nw5fw6ssxy2gt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363236",
+    "fingerprint": "asset12he0spvxantn5g8alu6p2mcn69nk07ndy6sstf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363237",
+    "fingerprint": "asset1l5ff8a9catq64j30668wxfkt4pjyvghkav7wa2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363238",
+    "fingerprint": "asset1htxd29a86mp3nc2usg8fx92umdk2dr7dz93e5e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363239",
+    "fingerprint": "asset1uj3v4s5uppjywgvss0ew7sjpld72ux59qtx36s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313633",
+    "fingerprint": "asset13j5w6ef9w9jd2ufjdrreh77xz4dn5fn7zz597j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363330",
+    "fingerprint": "asset1sce3pkat06zlry9punqhamu8dr0fyk4qr7d6ks",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363331",
+    "fingerprint": "asset13nkuqwjkxpcesgk28hs86rt9kp46lndxr786h0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363332",
+    "fingerprint": "asset1ldzqzmj8hkezwevwjqz8fc23xz5gsrqdla7ltg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363333",
+    "fingerprint": "asset1fdsxcauj074w39e2vuv3edpj8ahzqmnx8tx5gz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363334",
+    "fingerprint": "asset172907h3cuxg00d5mke6y2qml9yhn0x66r32g23",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363335",
+    "fingerprint": "asset1kdknvcxak3vk3umamvtw8trs9t6grjrzsjw88c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363336",
+    "fingerprint": "asset1y6rlcqym0ge8sq6z90u3n7ryd8hvxzqgytqexn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363337",
+    "fingerprint": "asset16d27sh3zsqycn4kz6afflu90d39kmdhlewfkf0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363338",
+    "fingerprint": "asset1j400wdgdvvs20w2jquz90yv9ksmmrgw9sxh52k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363339",
+    "fingerprint": "asset1j7vlhqp667mvykxgc5vcp30wsex4plnhf4f0vy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313634",
+    "fingerprint": "asset1n68eh8nq6w9mv80w5ffgqch46k6mkcvzuexex6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363430",
+    "fingerprint": "asset17gdvtw3v74wqramhd6s8p7dhft2v763h3j7kee",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363431",
+    "fingerprint": "asset1rsfrml6f0muupn33f3kyljkm725m289mtvr0fa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363432",
+    "fingerprint": "asset1h4aea48a4dj08rjt9809enytcclzszywckmg80",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363433",
+    "fingerprint": "asset1j8hwltlapkysxdwcqx67rl2myvqvtw7djff6z6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363434",
+    "fingerprint": "asset1gmcr97km59zgycac3yqvk9mpcr4k70dvkzkvf6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363435",
+    "fingerprint": "asset1jkarymefhm8y05g0ur5q6tqhge6guwl0lh99nh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363436",
+    "fingerprint": "asset1kw3l7yu986sadlhk5rckup5g7v248jvg7y4y95",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363437",
+    "fingerprint": "asset1qktd4rh6m2wwglp0r0t3ml8rwvaau6ewj93lmu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363438",
+    "fingerprint": "asset16ctt93e0gaqtegqdmrgmgd05q052wmf7uqvlxv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363439",
+    "fingerprint": "asset19n53v4svvphlm0srgpeqrdy9v769jp3he09nsz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313635",
+    "fingerprint": "asset1mhpu6wxmjaghmh55xklmyvpkvp0jmgz9x6em33",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363530",
+    "fingerprint": "asset18y4ysqrq9gcquvgzgwe48q59sysqz45ssacr66",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363531",
+    "fingerprint": "asset1nqyl5h26wysdy9ku3vnzq95hp0rtp87p7ljw96",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363532",
+    "fingerprint": "asset1e0pq52pc3e7f33stt85exz9fr6l6f5fz38sjpc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363533",
+    "fingerprint": "asset1jf83lwvvj7nunuct3gezd5cs5v3p2fgh8tga9j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363534",
+    "fingerprint": "asset1wmuumhmplvdtq32lqd80p45uzhwglqclwdgw6t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363535",
+    "fingerprint": "asset1xv25w9eg9wjmxwf5xs76zgs7t9gkgju7ptatsf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363536",
+    "fingerprint": "asset1c2e7m6krxkwxv75t3fm7u34mywh6l02akx7vnf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363537",
+    "fingerprint": "asset1xqmfhvamdcsfzdf4nelfpl88q7lwj598j2xexq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363538",
+    "fingerprint": "asset1aj0xu0jjv849xy8uqspj8g7f04jpl78tuv666y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363539",
+    "fingerprint": "asset1k8p5dt4gdlcxzaq3zx06qc3us546975wc7wxyx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313636",
+    "fingerprint": "asset1xhwcvw97wksvy2qgxq2ut9aqt2y3xngtzxs4qr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363630",
+    "fingerprint": "asset1300t7q3cuhkjg3s69p9lmk2spf7a79talk2ymg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363631",
+    "fingerprint": "asset1ys7nxz4vm84skq9kg8pezylsw0ysyfrluqnck0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363632",
+    "fingerprint": "asset1e3lnc0c8urtrfz09jn5tjp7s8qm95z3aptrp5w",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363633",
+    "fingerprint": "asset1zu9l3c00g8f0eplq2tevku52kyt7c8awg6nfd0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363634",
+    "fingerprint": "asset19l5t6cnxc8z4envde8kvz7lu7v4wnkqxrl8dn3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363635",
+    "fingerprint": "asset12732a069llvq2yq7tg8nuyzc0fkhuuvsqumdsu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363636",
+    "fingerprint": "asset169ls59tyzkyah3xq99gpcxqe6ekeumt427mkpq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363637",
+    "fingerprint": "asset174t2dfsjj6t06w46js9f03vaze4ac6qt7hyqa3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363638",
+    "fingerprint": "asset1u3hjjg7degvl7p4wt40sr592u3tmxhh7c5wlzm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363639",
+    "fingerprint": "asset1r4ja5fhujma4ur8hrlajrz4qlemd0q3svl36mw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313637",
+    "fingerprint": "asset1amr2yq37x5wyy5meumlm4w23rz5svehefuuea4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363730",
+    "fingerprint": "asset1kqlhppf0l4sqzmshxezf03sgrdnh957c477llq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363731",
+    "fingerprint": "asset1qgwusjx0k0tjmrfyakhp0ftk498x2ep45ran39",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363732",
+    "fingerprint": "asset1lmjde88f80uz9pyy4wtt47dj9vut8pjacmc3rc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363733",
+    "fingerprint": "asset1egzfzercwy6s0dnuyn79ltkzzmy8ldfyfj5xjk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363734",
+    "fingerprint": "asset1em2uap603vpf0vd0jjn4qcs234cmdel26vh0r9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363735",
+    "fingerprint": "asset19e43wthur55g487lyrdpjnedfw6hakqlrtaltu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363736",
+    "fingerprint": "asset12k5augu96hm6w5mfj995c3e3hn7nzl733edleh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363737",
+    "fingerprint": "asset18dz580yvv76fug6knwp65ap8u8w0w8dhytnqf4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363738",
+    "fingerprint": "asset1c29qc8qqujg4ahzc543gjf7m637rncjjyed7mm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363739",
+    "fingerprint": "asset1ftfw684naw0a35r93lmh43gq83v2lfvwt0jkcu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313638",
+    "fingerprint": "asset1kq2q5mu82qu74k8jt0wt9ulqv806n3gja9at4t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363830",
+    "fingerprint": "asset124nguhad9rm83h5erqkp00w6gdlk28rxtcx3d3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363831",
+    "fingerprint": "asset1cwsce4xhc9ln7g3m5vahx5ntvnu74hmtygjhjv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363832",
+    "fingerprint": "asset1tsg62c2hxf6kxj5z8q6cc7kp3avgr4g7t6cxz3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363833",
+    "fingerprint": "asset13hx3rf4h3wrhfghltztx49dh3q632mwneg0xzp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363834",
+    "fingerprint": "asset1s0kv253mxt9c3w0fyqlf59ucfp3yc68l0hvak7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363835",
+    "fingerprint": "asset1dq8xrtrewp72elp22kfwrslr4rh3jgdjv8u06y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363836",
+    "fingerprint": "asset12hedwy0kcdhkgnlhd2znd49c282tv42hmxgrup",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363837",
+    "fingerprint": "asset1nnzu9wqgn0yla8ctthh92stn0z4f8ac78g7vhx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363838",
+    "fingerprint": "asset188el9gmd2w95maznwmhaf9l2e5q082xwn74gfg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363839",
+    "fingerprint": "asset14va0m5n59j99d5m6qvqv2kr4khfv9h3ww8c7pt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313639",
+    "fingerprint": "asset15enhyfdv882c6nyjpe9h9raz2rdqjle0vtevc4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363930",
+    "fingerprint": "asset1nrur6kac7eej2e8p2j40waaup5muudc3tl54nx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363931",
+    "fingerprint": "asset14vturwrhpaq5mj5ar3d3a4f0454fwpwx7xasm5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363932",
+    "fingerprint": "asset1wkp80ttsfr4wke4nt2unphkepu277eaxxj3xxz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363933",
+    "fingerprint": "asset1f6ljxy83p85sgg8kz5mq7mnkchk8e848ewgzvs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363934",
+    "fingerprint": "asset1fyl579jvjnawrsmw3hlf4sze98xv009x3fftu2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363935",
+    "fingerprint": "asset1va5j8yff83mul0d278up37nf6dz24vguz8f6jm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363936",
+    "fingerprint": "asset1hl54wzwa8n7dsn83zsvqfsc5m6hlsuta5zygw5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363937",
+    "fingerprint": "asset1lv95v8ldl7wfzec8usm5h9qgxslu7sxylx7xln",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363938",
+    "fingerprint": "asset16u32v7cy7sslu7jc8l2mel4s2kxwx42z3x682g",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431363939",
+    "fingerprint": "asset1f9ma9y6f3l7rut86wec429cy8matem3y3vm6hs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643137",
+    "fingerprint": "asset1h6cf20cuevfy3vm6p6parwg8utak9zk34q9y84",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313730",
+    "fingerprint": "asset1wh6plaaj8vjr3jccz5hlqd8a92rhmejqvcke44",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373030",
+    "fingerprint": "asset198wvpn724hpq7mqg9xlgsadarfjcuswn7w0jkj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373031",
+    "fingerprint": "asset18qjlhr0ryn9skzk2efg8jh857g35548jkvwn59",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373032",
+    "fingerprint": "asset1ca4ncgwqe40p2j5lusvzrtgf433980l8jcq4p6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373033",
+    "fingerprint": "asset1n3hvtgs7mxgsq76wu3w9gx78n28m52ne8u7l4k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373034",
+    "fingerprint": "asset19q4ca0l6ezfu6hhac5l5n75nz5jmk9zg8j8rq5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373035",
+    "fingerprint": "asset185d376z9xxtc2cpup7capjeh48fpwkzm4khksh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373036",
+    "fingerprint": "asset1q2us95g5cxvnn7h0ydyzqu0cl2usemwwm4uuax",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373037",
+    "fingerprint": "asset1g0tzcd4f4sk4hsnjccra5g45p5hyrlh8hwmmj5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373038",
+    "fingerprint": "asset1sstsapvv8r7hupudjjdcndqdq8wfndzqjyhyxq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373039",
+    "fingerprint": "asset12cvvkzfp5pfgwz530jmpe2vulwaz5pj33yqsqh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313731",
+    "fingerprint": "asset1zl8cxqtstd9mx9pplk3teu4g8jfxhwrwp8lgl4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373130",
+    "fingerprint": "asset1tqf62qjt4t3qg7jv5z58hhjearnayadncu4lk9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373131",
+    "fingerprint": "asset1e368fufh63xwcx0jw379dyh8zvsny4my2k5ql4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373132",
+    "fingerprint": "asset18x5jx48jn7mrz7vxv5hp5hsayc9ecq7lzjmck6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373133",
+    "fingerprint": "asset19jjqeee0dlruwm65lj8nrmzekyzpj00j5y87p8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373134",
+    "fingerprint": "asset1yjky2jparefqzxzc5r6wk56gu0l98htp3p5tva",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373135",
+    "fingerprint": "asset1lcrj63cl267rrsf2djxe0tcvg2q6u5dp24gyuj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373136",
+    "fingerprint": "asset1fy65wr9mevxfuh39dmu9fncrx0lxx9nngd3dhj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373137",
+    "fingerprint": "asset1963efeeljlk3450gqca4tcgud6uzk4e0z9l3lz",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373138",
+    "fingerprint": "asset1hm4mm6xwystqyjkulys2kj7rsdyx4t3wtlu29a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373139",
+    "fingerprint": "asset1g4nd4xfnefpvtw0yhfet6uvq9z3umjpgjy9fzq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313732",
+    "fingerprint": "asset1hawmtrasj9wqcnrpa9kshrklzc4y096g3d9k4n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373230",
+    "fingerprint": "asset1ych5ff9056yez8njpdudmcg7fmghwjc5ql2qyk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373231",
+    "fingerprint": "asset12lssg62h76v0g4czqcylce5jz0ef9fefa7lu3m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373232",
+    "fingerprint": "asset1ku5y3uglpz2wcpryvan0wu6nany4qxegtesl9z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373233",
+    "fingerprint": "asset1qwaaug5prp8c7ajvc796q3u07v6c8m6smp6f9n",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373234",
+    "fingerprint": "asset1lgukzchkuqepsp2g6p89k6vymlm0c8xh8xfrug",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373235",
+    "fingerprint": "asset18ssvjuk5sf4z2h4zntyh0jy3ez32zt3qkxzk6u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373236",
+    "fingerprint": "asset1cjnemw67hywtluuf66xlznr6yja6v0pqaxa4z0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373237",
+    "fingerprint": "asset1y5qq29h2nskvc0wywdw3zwwn70q6x5j0j9eg2q",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373238",
+    "fingerprint": "asset1nuw2xhegkdleva9lhgchw3rf8hkjcqt2hp7tlt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373239",
+    "fingerprint": "asset1sccz9h3phuf8fx0w5nqt8f7zdl3gzxe85ceu49",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313733",
+    "fingerprint": "asset14a57dn3ex348zayxxdunqf7rlxzfpafu0nlwh9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373330",
+    "fingerprint": "asset1d5xg5scgp7573a3vyes0zsz3mtd2y2any5raxw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373331",
+    "fingerprint": "asset1q7weqt245xzlgc4rj8w6auygqu5zclnsrwq2jl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373332",
+    "fingerprint": "asset1r8mq2hgyl6vfs8tcj9qs7fgwsw7pwg6cdykhpg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373333",
+    "fingerprint": "asset1v50hsyt77sskfkdjdv330qw64txrgjcnzl8k92",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373334",
+    "fingerprint": "asset1nxsp5exyks3e05p2skexxndqmz5dzxj3lj0nem",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373335",
+    "fingerprint": "asset1a0jnjygn5jsf9u99yazvyj0k7xx9da3kr86xss",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373336",
+    "fingerprint": "asset1kjnxa66s7vk0dv9llekhy8azq8e4sta5f7uje5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373337",
+    "fingerprint": "asset1gzzugma5yy5t78xvms87mqznf3l7c4khectcwd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373338",
+    "fingerprint": "asset1y4ul5ynnvguqsd9u3avzpu8djjyedghgc0cm28",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373339",
+    "fingerprint": "asset16f99dql0qnsuveywa5nz28hmv3492xrfwzf65y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313734",
+    "fingerprint": "asset1608fz62zjtur223v96c684pqmdudqgl7qaq0ur",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373430",
+    "fingerprint": "asset1zqn37qp3g7qghwxr70uzxzyz8z6qd8wjjnj2z0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373431",
+    "fingerprint": "asset1flcyj0mvq0pck36twn5udgnewvzcqxqqeem3kp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373432",
+    "fingerprint": "asset1z64kk9qdnetr62tz3999gtqk6vpd7k7nrnzjkh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373433",
+    "fingerprint": "asset1szalpr87mdwh2alsrhrhf2psgyxsmc2eh08sqp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373434",
+    "fingerprint": "asset16ku0egxn96g9adw7dt4hlwgzx6y2kxjgslvlay",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373435",
+    "fingerprint": "asset1vqu4gsc6dk3krvktt065h77s4ulg6pgxrvwtlh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373436",
+    "fingerprint": "asset1rcdtuan94gw0msm20knp5djczru26r5pqeadql",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373437",
+    "fingerprint": "asset17m0y35wunx7ee2tdvhsl9u2uhhxzy50ckgtntf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373438",
+    "fingerprint": "asset1jpw978f39lvdag4yh636fy5788hr9n8uhchcv7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373439",
+    "fingerprint": "asset1vn26ukllcypts7r8sh808n84x6ckuu3q6x6ekh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313735",
+    "fingerprint": "asset1sph5wuk4jh8qgnqjpm25wfk05ll522rzqdtujn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373530",
+    "fingerprint": "asset19f2klmxs6lwvm3txedtlrwwydggzwej9vqwvyv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373531",
+    "fingerprint": "asset1ve0d0amy2up8ges5szk2wqe9ggq0e0r4d0xrr0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373532",
+    "fingerprint": "asset1yf5ta5f6uq7qj8zzezp7u68hpfkcwx6x2zeelw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373533",
+    "fingerprint": "asset1yrt83ljc7medrtahkjaldshk2s5apkqdkf2gsm",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373534",
+    "fingerprint": "asset1feen2kdxaumqswshyrg4g0wa8gxpymqxxtysuc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373535",
+    "fingerprint": "asset15rku60dsh8g5gjgfdn36aas46keg59fwzuh07p",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373536",
+    "fingerprint": "asset15ents7zdrn90m3y3j2v5t87z87tgafdlm3cp5u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373537",
+    "fingerprint": "asset17wnvet0jw2tkhu6mgy0wdu49l2gdqacsajrzv6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373538",
+    "fingerprint": "asset1c92q0z6ptvz60sunmnqh3f9fr8hg3tcjjk3dhs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373539",
+    "fingerprint": "asset1dxtx7d5785ucw9lh5rfh7kd6e5gpkgwcdwwxt8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313736",
+    "fingerprint": "asset1jencggxqxaaayhye0zvxwqjv47cqgepzhh0zm3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373630",
+    "fingerprint": "asset1svsuv5rlyad2s75uenx5pef0wvuz530acatnwc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373631",
+    "fingerprint": "asset1dth85j2jd9hstqzwf2zhwnu2rhr4wkjl58rdxd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373632",
+    "fingerprint": "asset15daav6gv65vmu5fyrzt5ve7ng29lku69xtss6a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373633",
+    "fingerprint": "asset15l833msa4cwu7dx89hyu9xj83m87ngdz2k36w9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373634",
+    "fingerprint": "asset1xvgkhfz3lu3a8pq4fju2uvgatqu2ngemnrvcke",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373635",
+    "fingerprint": "asset1f6vjkle0lsstkgtqxjudf5gv2kxm67t5vlwf4r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373636",
+    "fingerprint": "asset1ghvwuw97dxpq40z5ktzrh0378gedkzgs5ecfwn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373637",
+    "fingerprint": "asset17m6jkzdexrzdcuzunuetgs9kk9z0gznfhqf5p7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373638",
+    "fingerprint": "asset1wwaqln6wsrygd7sn95d0hlecu4c4ddn4c4rlmv",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373639",
+    "fingerprint": "asset1mlkjedthdrx7w5gayg0t5l3x5xqat8a057ep8y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313737",
+    "fingerprint": "asset1g9v95q83wzgw8xudawkj7rc8g2t28sv896pnuw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373730",
+    "fingerprint": "asset13l8jj3s7dg9r7vcgr97nfae9w32dqpym2t86ns",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373731",
+    "fingerprint": "asset1svlzxp02mtsa045tzkx39pjh6pvqxj7dkf9nk9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373732",
+    "fingerprint": "asset1fj48jewsx8v7mn7j7mel5c70ahgagymc62wr9j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373733",
+    "fingerprint": "asset10zpqstf8j2hec0g84ld5hs87njs3yre29fk08u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373734",
+    "fingerprint": "asset1p7nw3rrpvvmhlyy3g5azjmhf2ycfdahyphl6wr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373735",
+    "fingerprint": "asset1l6fwud84vwrny7zn0qpf8kqma2xfrkflzkv5uk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373736",
+    "fingerprint": "asset1s07pp20u5xvkafcc4u7need79z2ah3fmgu7txf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373737",
+    "fingerprint": "asset1zunrz84ffr0nm7vva94cy8py9l6mmakd89qejn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373738",
+    "fingerprint": "asset1zp3avlwpveueu3trz5sjsrmsuplpd3wldkjlqx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373739",
+    "fingerprint": "asset1kr8aq72q9mcsfv2tmc4q0vkxan29yzuwwyw824",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313738",
+    "fingerprint": "asset1uwwq7x73xyrnftdvgl9lqhelrke9xzypmm67rh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373830",
+    "fingerprint": "asset10vhcayncnm30pk7r0233qw0yayzgruk2sc2skf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373831",
+    "fingerprint": "asset1meu35jf74gyvf4fetf9ykvn8dv9q7twx5vtn8m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373832",
+    "fingerprint": "asset1hc2cmkyqpt7udnyzghyje7e53f4a3wqlw9ngy3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373833",
+    "fingerprint": "asset12zr6vr992fdqy3zk7au8fa40ug54h0jrr68jxq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373834",
+    "fingerprint": "asset1zc40q30ftkeugharydjwe79dtjepfe2x45xvx3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373835",
+    "fingerprint": "asset1tmgqvsfkg50tdc9e0xh3tps58wyzdap0xu3jf6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373836",
+    "fingerprint": "asset13mk4nz04qqktuzzpjmgz7zhprkxqrux2w9e6ud",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373837",
+    "fingerprint": "asset1vjjxfu7duqydp7l039zsp78w0uksjxc6r6zu6u",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373838",
+    "fingerprint": "asset1tryac0nslefjfll8q7hafpg48q9lxc0nxy8zgj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373839",
+    "fingerprint": "asset10kjfjlpm0l7tkkgnuwjazwnvaswkqwdpue2hfa",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313739",
+    "fingerprint": "asset1f0g8e2ff45musef0rljecczm9axtrl8kf2kqmj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373930",
+    "fingerprint": "asset1zgmxt2t02f9tr2cj97rjprcmp92xceenjz3az2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373931",
+    "fingerprint": "asset1svhukqnc69dmyp2v290gx4n6y3n7ucr8t5u2uy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373932",
+    "fingerprint": "asset1528p7x9sxza7d65d53k5svfv7wdx80src94qgc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373933",
+    "fingerprint": "asset1g7997ftfcapmzas0jrdhcxzr8xckwuncqxwekt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373934",
+    "fingerprint": "asset15r3cvh588kzqk9pljyckgq5rwnfe2cmjgwrv37",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373935",
+    "fingerprint": "asset1e2fhmh59mr2cz4rramxax3xqcykfrhehgexhmh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373936",
+    "fingerprint": "asset192fz3fj8htjy9q9zfxq45jparcs9khhnuttf8v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373937",
+    "fingerprint": "asset1mu6lk7e2s25z9n293ztyp5tljx52vsdhhw62xp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373938",
+    "fingerprint": "asset134749rhuufgurmdnydp07l0k5kyaf9sn6c654x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431373939",
+    "fingerprint": "asset1a9shzuacfn9xyvsnhesw7dedt8cek82zcq282h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "53706163654275643138",
+    "fingerprint": "asset1umae8wtkt4v3sg9rxma0ujp20870wqmcjhc2ts",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313830",
+    "fingerprint": "asset13xkcjv898lwrhgkgunzn7p76s8zg4hy0lkrq8x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383030",
+    "fingerprint": "asset1ynja4cyfwpvva3yq2eresnrgdw4xxw9gdrp5px",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383031",
+    "fingerprint": "asset1fjn5uu4fxc0rll5a4wur45xw9er69hnkw7ej52",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383032",
+    "fingerprint": "asset1rel8cf55vcd9mgww5kfvdgnvnawextuuzf0twd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383033",
+    "fingerprint": "asset1sllpeyp4mza0nuut7lgae65fske0d8tfwdt6at",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383034",
+    "fingerprint": "asset13zfg2ymg8xmexkvweat77e6vn4acglg03funwh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383035",
+    "fingerprint": "asset1vsnusn8hu4d6kl9ehutktxfu4h9eedh80a5nln",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383036",
+    "fingerprint": "asset1f7dsy3egclaeneyk995xfpkwnlgun6shdu569a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383037",
+    "fingerprint": "asset16ml7255n85xz6t7kq65ck4q3cdxk4j5nj88p8e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383038",
+    "fingerprint": "asset1qmk7d84a4zndsruxvt84wlu8cz35zk546ladg3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383039",
+    "fingerprint": "asset1vh7hf6j65tchxpg4c49hhp5anzj9vt8x0erqv5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313831",
+    "fingerprint": "asset13fh0qv6fgvxc297rvv4fgwg3vjnu5gze3p7kn4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383130",
+    "fingerprint": "asset1h0qguq20fmkkm8uv4jfdgwyek2lsx8dpwxv6w7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383131",
+    "fingerprint": "asset1yax5yxljfltssv4j8lavylax92wd4kzf27mhkw",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383132",
+    "fingerprint": "asset1h9x8anal65kw58aeaekvz65k9g7gy787nn3n6x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383133",
+    "fingerprint": "asset1xn7wh0k2wf5ncycdmwjj2rm4q0cf3pahrrzqz5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383134",
+    "fingerprint": "asset1ljn7cj8cxdv8vtva8vlswdxxhumpplpy0lqz2f",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383135",
+    "fingerprint": "asset13dspellnjwkf06vfr2zekg8w08wdmzhqmu0l2k",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383136",
+    "fingerprint": "asset1n2h4yyk60j588vx35wzwwqdrlh8x9psu93huh5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383137",
+    "fingerprint": "asset14q78740l32tq2e08r3n9u6ag7l7qrc589ssnzf",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383138",
+    "fingerprint": "asset1awguzr5rqxfwudnmkprlha3hqh4yy4tdnmxth9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383139",
+    "fingerprint": "asset1784m9gzvj703fd6fyjvngv2ylu5r0eaacs9v6s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313832",
+    "fingerprint": "asset1qghzfvv34luh5p5ccld70yutmdhk6y39rlqw0m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383230",
+    "fingerprint": "asset1l3actdw7wd9xfrm0fjxcdg9xeuy7jtjrvknf9r",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383231",
+    "fingerprint": "asset1sdcfyu9uqhlz7964yly6fqg0gcfptm053k0749",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383232",
+    "fingerprint": "asset1kr2xq5rtynauedrpsslmjjxw9jq6v5puq8ka5j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383233",
+    "fingerprint": "asset1neqcn4pf7juvgn2t25t8937qagqte59r4t7w0x",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383234",
+    "fingerprint": "asset1pw4z3vsmn9alyshlzmavd8c5rm7ht5mz4waztk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383235",
+    "fingerprint": "asset15c39x6rpxvj4pkmzzdqapwlm6vj96sqsyq6jzq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383236",
+    "fingerprint": "asset1l09ndq9ctpveym8ke3hjvap4n4xajdlr8vp6zh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383237",
+    "fingerprint": "asset1khwacqn6j3qjrz4syfmkwusaum7z2g38j3478v",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383238",
+    "fingerprint": "asset17st077tx0dwrjfjaepl6vp9pq79zc2trsagtuq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383239",
+    "fingerprint": "asset1eatjwqhm9eg448mpxdn7p0fpmqft3kutpdspam",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313833",
+    "fingerprint": "asset1jm5q3sj3han8tm8z582c5m5tp5e3pz2w6jsvt4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383330",
+    "fingerprint": "asset1ttxmz0vkkfu35qf03kyfv4n4gpulahy2sys2vj",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383331",
+    "fingerprint": "asset16j2cpwrdy2nnkjvqg8ks5t5xd77v92796x5ygy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383332",
+    "fingerprint": "asset1h0dl0h9wu378a53emw9r5tnpx9u6mrw3k8le0a",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383333",
+    "fingerprint": "asset1gq9nj9ejnc2uq0pnvw0rxj5wyssekp69mk83ls",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383334",
+    "fingerprint": "asset12m7lal7yaqsgxedvlpr8evqzszk4zwpl82rzvd",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383335",
+    "fingerprint": "asset1pe9ys276xlfxqqf8nhmnnee9jrvmuj872ywmhs",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383336",
+    "fingerprint": "asset1hx6xpwdk24ja6p3ylryk22qn2zl3eaqux5u9m9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383337",
+    "fingerprint": "asset1stc7d8tsxkmvkptpqv4h2j6r2t6sypuza2lheu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383338",
+    "fingerprint": "asset1nq6yschs88p0fhzjs2rpj8lvj45x0zv2tazm9m",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383339",
+    "fingerprint": "asset1dp9y2n5vjud0hgfdezjneyjcwrnmryyql7azs0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313834",
+    "fingerprint": "asset16j3wusm2g55v78qt6c6njmth28hna22edkcw2c",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383430",
+    "fingerprint": "asset1c9cl5fs80s4ds2d87j3mtrm957026rwpqsgz0h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383431",
+    "fingerprint": "asset186gn304ejp6sttjcu54g966czpk5sz6yt4klud",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383432",
+    "fingerprint": "asset19sd3nfhxt422spyjwgm4ydm79nqyss79xn0q7y",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383433",
+    "fingerprint": "asset1de2lpcvesh08ey3k546ks2r8dpj47vc0e4300h",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383434",
+    "fingerprint": "asset1jy3ajmt0lckctfv69h35m9387ng7wjsuse4sjp",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383435",
+    "fingerprint": "asset1u97wusaruyjxuqrm2aptmk3nncsqxgj4rxthn3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383436",
+    "fingerprint": "asset1s8658u9ay08r8rra34dw925dttuv4hn5njuvpt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383437",
+    "fingerprint": "asset1k99wqxy4ym86dm3kgtnjcefjm8qkde65tzeksu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383438",
+    "fingerprint": "asset1uyd96pqj77pxrz87yx226raxk50s297q08y39t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383439",
+    "fingerprint": "asset1vq44xqkqtke2mww6ddn48hrfj5znthuhh0vryr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313835",
+    "fingerprint": "asset1cfjzy8exn9m027mdphf0ts5s8zpc80pphf9zns",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383530",
+    "fingerprint": "asset17jqrfpegfqzqfspkrk38x4jd2tglvdhkk4akag",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383531",
+    "fingerprint": "asset1js0t2rc9u4udpz2eqajy0tkwl6yjy7q33urmwh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383532",
+    "fingerprint": "asset199n6g94x2ahe5ugp5kq9mhav3flw2mssf2qgeu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383533",
+    "fingerprint": "asset19vkgnxv9dl9z25zfn8gcvg8s9n3hm5cdentdg6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383534",
+    "fingerprint": "asset1ay7k0j66dh54smukcagl234je36lszt9vg52f6",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383535",
+    "fingerprint": "asset19ufkz70x5lq4jw6erdna9ruekgzpqx65ceprdk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383536",
+    "fingerprint": "asset1tjq229tufpj89ljffwwgjv9k0ertn7ndprl5j2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383537",
+    "fingerprint": "asset1ldsgchpwhxtrldcnulleqhg3vu7d9c9mx27kdk",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383538",
+    "fingerprint": "asset1qtewud6w5seh9zs2tq0zjyr98y0algvpdvaht2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383539",
+    "fingerprint": "asset185jast07jf52qcvqwrsctelhe2rdsesank3wae",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313836",
+    "fingerprint": "asset1uaa4ma27fqwxqyegvuh6sca5pjsywqjpn6m0u8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383630",
+    "fingerprint": "asset1a54ley7gtwj3k97dwmyl59pftcnqlu8rajln39",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383631",
+    "fingerprint": "asset14r4sr3jykm73a58wunwxlk0mv0daunhes7e6nn",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383632",
+    "fingerprint": "asset1kfjjyd3fdu3wur8ynqngz37xmke54algmqy8d9",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383633",
+    "fingerprint": "asset1wnu00ws3esszuv6anf90evtyr4e0dtp8t6kwx3",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383634",
+    "fingerprint": "asset1ps4u28sgj068q7jv9ghq7wlt2829zq3dgf9jlu",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383635",
+    "fingerprint": "asset1tt05gxhxn8arv9nrkn9vyhlprakq3sv4w6k52s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383636",
+    "fingerprint": "asset1h2lsdstwt9sqt7l25h53j7crrf3t4klyjmpg8e",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383637",
+    "fingerprint": "asset1st9dweevsyzlv5k9uywtjxjykyegsluu9lxvh5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383638",
+    "fingerprint": "asset163kj57n64a0dswcsr2cglztyw4xne4q256d7yc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383639",
+    "fingerprint": "asset1e5umqw98r2zh00n5xumw3c0ayp938sjd25sjl0",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313837",
+    "fingerprint": "asset1c8rr44a48s752jx93x6w206t3rkf4kay4w20lq",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383730",
+    "fingerprint": "asset1cpye40lf2f0969j3hsdq9kmggy4m8nevqpfw02",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383731",
+    "fingerprint": "asset1fpcv2cv9fw8qz0252g90tk49s695nyf7u9cxnr",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383732",
+    "fingerprint": "asset17y2509fugww75n2mskkq8gvjg56lup3gmh8vga",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383733",
+    "fingerprint": "asset13nm9n5hl7p4th9d2aqxztf697tvtgdd9jnf5vy",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383734",
+    "fingerprint": "asset16h26aev3v3s6s7xsmrg9afqhg6tnq9uv3jms3j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383735",
+    "fingerprint": "asset16vnsrrwkxl0s76a6fl5ymdu6sj3kduznpjzsu8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383736",
+    "fingerprint": "asset176ywc4nndwdkracavdqa5x54hdx2vy4gvun9j8",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383737",
+    "fingerprint": "asset1jr0y3le50hax06yx9lm8td5qruhazyd4rs65mt",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383738",
+    "fingerprint": "asset1g6k84wl2ap6g0stgvzva9pn6funtc5khlv3ax7",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383739",
+    "fingerprint": "asset13p5u8tysdgvvn8ksd2z4t8h7jjga3ggutgve2t",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313838",
+    "fingerprint": "asset1fpd54x9k0pwdty9q8za20hdw2p4vxlh26k8mx2",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383830",
+    "fingerprint": "asset1krt7eu89t3nsqrvxm8zag2s7arywe7qde3ffqx",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383831",
+    "fingerprint": "asset1g720pgw3hcfh08y95dpuuwxuq0lgc6my4zs3zc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383832",
+    "fingerprint": "asset1cd7tedvxpudkd70q3mcs6q25f49gnluv6m85nc",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383833",
+    "fingerprint": "asset1jdzltuw4hnjxtgxy456kuaeqsrvay9qame7k89",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383834",
+    "fingerprint": "asset14gnjxdn72h57jedluanswusj67areljpydms2j",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383835",
+    "fingerprint": "asset1696hy94cs73mqsa8rxzca8rpcees0wq3z7k3d5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383836",
+    "fingerprint": "asset1s5cm5c8zucntatehcl6985u3lzklyujekpk6wh",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383837",
+    "fingerprint": "asset1ar2klz2zq8gy3jnjv36vk5pjgjq4plpj9khkf5",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383838",
+    "fingerprint": "asset14ttnus7mkhj4sca27ygadyw2m5807w64t2jz6s",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383839",
+    "fingerprint": "asset1mggfzdprwalqv8wkepujrmjkkj4hhucsmg4c47",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "5370616365427564313839",
+    "fingerprint": "asset1z8fqtgktz4k65zkah3gcl0z70hf7kkyvmra2g4",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383930",
+    "fingerprint": "asset1208w8gtss0yhddg8pgt4rsgrguzw73aknvnz8z",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383931",
+    "fingerprint": "asset1k5589d2zh6tkhqk7lesl96kj9jqdsl900c3hna",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383932",
+    "fingerprint": "asset1vznndzcf0nhw73s42mdwzscn7hngqszq5xmeha",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383933",
+    "fingerprint": "asset176m9qhzu4qnr6ltgk7t83m6c2ee433e5vxvwye",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383934",
+    "fingerprint": "asset1982xcppqal9x0yu07stwxvgztscs3whmclacfl",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383935",
+    "fingerprint": "asset1zp348j5vmnlw7pxltnmdtdrspar8jv9yrryswg",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383936",
+    "fingerprint": "asset1knwfs5znws2k5xhd5ln2de9fzzws7avm9n974d",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383937",
+    "fingerprint": "asset1g43626kzfc68wund2u6xacp79pc7whgrysjdww",
+    "total_supply": "1",
+    "decimals": 0
+  },
+  {
+    "asset_name": "537061636542756431383938",
+    "fingerprint": "asset12ectpmq36j4e4eg635rvusqg43hvf3wczxpt6w",
+    "total_supply": "1",
+    "decimals": 0
+  }
+]
